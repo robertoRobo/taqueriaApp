@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:taqueria"
+             x:Class="taqueria.MainPage"
+             xmlns:ffimageloading="clr-namespace:FFImageLoading.Forms;assembly=FFImageLoading.Forms"
+             NavigationPage.HasNavigationBar="false">
+    <ContentPage.Content>
+        <AbsoluteLayout>
+
+            <ffimageloading:CachedImage x:Name="BgImage" 
+                   Source="fondo4.jpg"
+                   Aspect="AspectFill"
+                   AbsoluteLayout.LayoutBounds="0.0, 0.0, 1.0, 1.0"
+                   AbsoluteLayout.LayoutFlags="All"/>
+            <Button 
+                x:Name="btnOrdenes"
+                    Text=" Mis Ordenes "
+                    CornerRadius="5"
+                    FontSize="20"
+                    BackgroundColor="#00B434"
+                    TextColor="White"
+                Margin="0,5,0,0"
+                    AbsoluteLayout.LayoutBounds=".95,.005,.6,.11"
+                    AbsoluteLayout.LayoutFlags="All"
+                    >
+            </Button>
+            <StackLayout
+                AbsoluteLayout.LayoutBounds=".5,.8,.65,.65"
+                AbsoluteLayout.LayoutFlags="All">
+                <Image
+                        x:Name="Logo"
+                        Source="Logo.png"
+                        Aspect="AspectFill"
+                    />
+            </StackLayout>
+
+            <AbsoluteLayout
+                AbsoluteLayout.LayoutBounds=".45,.98,.96,.4"
+                AbsoluteLayout.LayoutFlags="All">
+                <Button 
+                    x:Name="btnPaLevar"
+                    Text=" Pa' Llevar "
+                    CornerRadius="5"
+                    BackgroundColor="#FF3400"
+                    TextColor="White"
+                    FontSize="25"
+                    AbsoluteLayout.LayoutBounds=".5,.5,.7,.3"
+                    AbsoluteLayout.LayoutFlags="All"
+                    >
+                </Button>
+
+                <Button 
+                    x:Name="btnMenu"
+                    Text=" Menu "
+                    CornerRadius="5"
+                    BackgroundColor="#009A00"
+                    TextColor="White"
+                    FontSize="20"
+                    AbsoluteLayout.LayoutBounds=".05,1,.4,.3"
+                    AbsoluteLayout.LayoutFlags="All"
+                    >
+                </Button>
+
+                <Button 
+                    x:Name="btnSucursales"
+                    Text=" Sucursales "
+                    CornerRadius="5"
+                    BackgroundColor="#009A00"
+                    TextColor="White"
+                    FontSize="20"
+                    AbsoluteLayout.LayoutBounds=".95,1,.5,.3"
+                    AbsoluteLayout.LayoutFlags="All"
+                    >
+                </Button>
+
+
+            </AbsoluteLayout>
+
+        </AbsoluteLayout>
+
+    </ContentPage.Content>
+</ContentPage>

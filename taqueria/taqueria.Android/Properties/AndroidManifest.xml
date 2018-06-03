@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionCode="1" android:versionName="1.0" package="com.companyname.taqueria" android:installLocation="auto">
+	<uses-sdk android:minSdkVersion="15" />
+	<uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+	<uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+	<uses-permission android:name="android.permission.ACCESS_MOCK_LOCATION" />
+	<uses-permission android:name="android.permission.ACCESS_LOCATION_EXTRA_COMMANDS" />
+	<uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+	<uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+	<uses-permission android:name="android.permission.INTERNET" />
+	<uses-permission android:name="android.permission.READ_PHONE_STATE" />
+	<application android:label="La App Del Taco" android:largeHeap="true" android:icon="@drawable/Logo">
+		<!-- Put your Google Maps V2 API Key here. -->
+		<meta-data android:name="com.google.android.geo.API_KEY" android:value="AIzaSyCM9j8fp7-30AgVSfA56IYFDNtP3k1dm8Y" />
+		<meta-data android:name="com.google.android.gms.version" android:value="@integer/google_play_services_version" />
+	</application>
+</manifest>

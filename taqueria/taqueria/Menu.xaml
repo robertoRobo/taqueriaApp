@@ -1,0 +1,267 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" 
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="taqueria.Menu"
+             NavigationPage.HasNavigationBar="false">
+    <ContentPage.Content>
+
+        <StackLayout
+            HorizontalOptions="FillAndExpand">
+            <AbsoluteLayout
+            HorizontalOptions="FillAndExpand">
+                <StackLayout
+                Orientation="Vertical"
+                Margin="0"
+                Padding="0"
+                Spacing="0"
+                AbsoluteLayout.LayoutBounds="0.0, 0.0, 1.0, 1.0"
+                AbsoluteLayout.LayoutFlags="All"
+                BackgroundColor="Transparent"
+                HorizontalOptions="FillAndExpand"
+                    >
+
+                    <Grid 
+                        BackgroundColor="#135fbd"
+                        ColumnSpacing="5"
+                        VerticalOptions="Start"
+                        AbsoluteLayout.LayoutBounds="0.0, 0.0, 1.0, 1.0"
+                        AbsoluteLayout.LayoutFlags="All" >
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="Auto" />
+                        </Grid.RowDefinitions>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="Auto" />
+                        </Grid.ColumnDefinitions>
+
+                        <AbsoluteLayout 
+                           Grid.Row="0"
+                           Grid.Column="1"
+                           HeightRequest="55">
+
+                            <Button
+                            x:Name="BtnBackSucursales"
+                            Text="Regresar"
+                            CornerRadius="5"
+                            BackgroundColor="#009A00"
+                            TextColor="White"
+                            FontSize="18"
+                            Margin="6"
+                            Clicked="BtnBackSucursales_Clicked"
+                            />
+
+                            <Label Text="Menú"
+                               TextColor="White"
+                               FontSize="25"
+                               VerticalTextAlignment="Center"
+                               HorizontalTextAlignment="Center"
+                               AbsoluteLayout.LayoutFlags="All"
+                               AbsoluteLayout.LayoutBounds=".65,1,.5,1"
+                           />
+                        </AbsoluteLayout>
+                    </Grid>
+
+                    <ScrollView>
+                        <StackLayout >
+                            <StackLayout
+                                BackgroundColor="#FF3400"
+                                Padding="10"
+                                HorizontalOptions="FillAndExpand"
+                                Orientation="Vertical">
+                                <Label 
+                                    Text="Tacos"
+                                       TextColor="White"
+                                       FontSize="25"
+                                       Margin="3"
+                                       HorizontalTextAlignment="Center"
+                                       HorizontalOptions="FillAndExpand"/>
+                            </StackLayout>
+                            <StackLayout >
+                                <ListView x:Name="listaAlimentos" ItemsSource="{Binding Tacos1}" 
+                                          HasUnevenRows="True" BackgroundColor="#F35E00"
+                              Margin="0,-10,0,0" ItemTapped="Alimento_Seleccionado" HeightRequest="182">
+                                    <ListView.ItemTemplate >
+                                        <DataTemplate >
+                                            <ViewCell>
+                                                <Grid>
+                                                    <Grid.ColumnDefinitions>
+                                                        <ColumnDefinition Width="*" />
+                                                        <ColumnDefinition Width="Auto" />
+                                                    </Grid.ColumnDefinitions>
+                                                    <Grid Grid.Column="0">
+                                                        <Grid.RowDefinitions>
+                                                            <RowDefinition/>
+                                                            <RowDefinition/>
+                                                        </Grid.RowDefinitions>
+
+                                                        <Label Grid.Row="0" Text="{Binding Nombre}" TextColor="White" FontSize="20" Margin="10,0,20,0" 
+                                                   VerticalTextAlignment="Center"/>
+                                                        <Label Grid.Row="0" Text="{Binding Precio}" LineBreakMode="TailTruncation" 
+                                                               TextColor="White" FontSize="20" HorizontalTextAlignment="End"  VerticalTextAlignment="Center"
+                                                               Margin="20,0,0,0"/>
+
+                                                    </Grid>
+
+                                                    <Image     Source="{Binding Imagen}"    
+                                                           Grid.Column="1"
+                                                           HorizontalOptions="End" HeightRequest="40" WidthRequest="200" Margin="0,0,-60,0"/>
+                                                </Grid>
+                                            </ViewCell>
+                                        </DataTemplate>
+                                    </ListView.ItemTemplate>
+                                </ListView>
+                            </StackLayout>
+                            <StackLayout
+                                BackgroundColor="#FF3400"
+                                Padding="10"
+                                Margin="0,-6,0,0"
+                                HorizontalOptions="FillAndExpand"
+                                Orientation="Vertical">
+                                <Label 
+                                    Text="Tortas"
+                                       TextColor="White"
+                                       FontSize="25"
+                                       Margin="3"
+                                       HorizontalTextAlignment="Center"
+                                       HorizontalOptions="FillAndExpand"/>
+                            </StackLayout>
+                            <StackLayout >
+                                <ListView x:Name="listaAlimentos2" ItemsSource="{Binding Tortas1}" 
+                                          HasUnevenRows="True" BackgroundColor="#F35E00"
+                              Margin="0,-10,0,0" ItemTapped="Alimento_Seleccionado2" HeightRequest="182">
+                                    <ListView.ItemTemplate >
+                                        <DataTemplate >
+                                            <ViewCell>
+                                                <Grid>
+                                                    <Grid.ColumnDefinitions>
+                                                        <ColumnDefinition Width="*" />
+                                                        <ColumnDefinition Width="Auto" />
+                                                    </Grid.ColumnDefinitions>
+                                                    <Grid Grid.Column="0">
+                                                        <Grid.RowDefinitions>
+                                                            <RowDefinition/>
+                                                            <RowDefinition/>
+                                                        </Grid.RowDefinitions>
+
+                                                        <Label Grid.Row="0" Text="{Binding Nombre}" TextColor="White" FontSize="20" Margin="10,0,20,0" 
+                                                   VerticalTextAlignment="Center"/>
+                                                        <Label Grid.Row="0" Text="{Binding Precio}" LineBreakMode="TailTruncation" 
+                                                               TextColor="White" FontSize="20" HorizontalTextAlignment="End"  VerticalTextAlignment="Center"
+                                                               Margin="20,0,0,0"/>
+
+                                                    </Grid>
+
+                                                    <Image     Source="{Binding Imagen}"    
+                                                           Grid.Column="1"
+                                                           HorizontalOptions="End" HeightRequest="40" WidthRequest="200" Margin="0,0,-60,0"/>
+                                                </Grid>
+                                            </ViewCell>
+                                        </DataTemplate>
+                                    </ListView.ItemTemplate>
+                                </ListView>
+                            </StackLayout>
+                            <StackLayout
+                                BackgroundColor="#FF3400"
+                                Padding="10"
+                                Margin="0,-6,0,0"
+                                HorizontalOptions="FillAndExpand"
+                                Orientation="Vertical">
+                                <Label 
+                                    Text="Bebidas"
+                                       TextColor="White"
+                                       FontSize="25"
+                                       Margin="3"
+                                       HorizontalTextAlignment="Center"
+                                       HorizontalOptions="FillAndExpand"/>
+                            </StackLayout>
+                            <StackLayout >
+                                <ListView x:Name="listaAlimentos3" ItemsSource="{Binding Tacos}" 
+                                          HasUnevenRows="True" BackgroundColor="#F35E00"
+                              Margin="0,-10,0,0" ItemTapped="Alimento_Seleccionado3" HeightRequest="182">
+                                    <ListView.ItemTemplate >
+                                        <DataTemplate >
+                                            <ViewCell>
+                                                <Grid>
+                                                    <Grid.ColumnDefinitions>
+                                                        <ColumnDefinition Width="*" />
+                                                        <ColumnDefinition Width="Auto" />
+                                                    </Grid.ColumnDefinitions>
+                                                    <Grid Grid.Column="0">
+                                                        <Grid.RowDefinitions>
+                                                            <RowDefinition/>
+                                                            <RowDefinition/>
+                                                        </Grid.RowDefinitions>
+
+                                                        <Label Grid.Row="0" Text="{Binding Nombre}" TextColor="White" FontSize="20" Margin="10,0,20,0" 
+                                                   VerticalTextAlignment="Center"/>
+                                                        <Label Grid.Row="0" Text="{Binding Precio}" LineBreakMode="TailTruncation" 
+                                                               TextColor="White" FontSize="20" HorizontalTextAlignment="End"  VerticalTextAlignment="Center"
+                                                               Margin="20,0,0,0"/>
+
+                                                    </Grid>
+
+                                                    <Image     Source="{Binding Imagen}"    
+                                                           Grid.Column="1"
+                                                           HorizontalOptions="End" HeightRequest="40" WidthRequest="200" Margin="0,0,-60,0"/>
+                                                </Grid>
+                                            </ViewCell>
+                                        </DataTemplate>
+                                    </ListView.ItemTemplate>
+                                </ListView>
+                            </StackLayout>
+                            <StackLayout
+                                BackgroundColor="#FF3400"
+                                Padding="10"
+                                Margin="0,-6,0,0"
+                                HorizontalOptions="FillAndExpand"
+                                Orientation="Vertical">
+                                <Label 
+                                    Text="Postres"
+                                       TextColor="White"
+                                       FontSize="25"
+                                       Margin="3"
+                                       HorizontalTextAlignment="Center"
+                                       HorizontalOptions="FillAndExpand"/>
+                            </StackLayout>
+                            <StackLayout >
+                                <ListView x:Name="listaAlimentos4" ItemsSource="{Binding Tortas}" 
+                                          HasUnevenRows="True" BackgroundColor="#F35E00"
+                              Margin="0,-10,0,0" ItemTapped="Alimento_Seleccionado4" HeightRequest="182">
+                                    <ListView.ItemTemplate >
+                                        <DataTemplate >
+                                            <ViewCell>
+                                                <Grid>
+                                                    <Grid.ColumnDefinitions>
+                                                        <ColumnDefinition Width="*" />
+                                                        <ColumnDefinition Width="Auto" />
+                                                    </Grid.ColumnDefinitions>
+                                                    <Grid Grid.Column="0">
+                                                        <Grid.RowDefinitions>
+                                                            <RowDefinition/>
+                                                            <RowDefinition/>
+                                                        </Grid.RowDefinitions>
+
+                                                        <Label Grid.Row="0" Text="{Binding Nombre}" TextColor="White" FontSize="20" Margin="10,0,20,0" 
+                                                   VerticalTextAlignment="Center"/>
+                                                        <Label Grid.Row="0" Text="{Binding Precio}" LineBreakMode="TailTruncation" 
+                                                               TextColor="White" FontSize="20" HorizontalTextAlignment="End"  VerticalTextAlignment="Center"
+                                                               Margin="20,0,0,0"/>
+
+                                                    </Grid>
+
+                                                    <Image     Source="{Binding Imagen}"    
+                                                           Grid.Column="1"
+                                                           HorizontalOptions="End" HeightRequest="40" WidthRequest="200" Margin="0,0,-60,0"/>
+                                                </Grid>
+                                            </ViewCell>
+                                        </DataTemplate>
+                                    </ListView.ItemTemplate>
+                                </ListView>
+                            </StackLayout>
+                        </StackLayout>
+
+                    </ScrollView>
+                </StackLayout>
+            </AbsoluteLayout>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

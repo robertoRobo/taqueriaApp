@@ -1,0 +1,122 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="taqueria.PaLlevar1"
+             xmlns:ffimageloading="clr-namespace:FFImageLoading.Forms;assembly=FFImageLoading.Forms"
+             NavigationPage.HasNavigationBar="false">
+    <ContentPage.Content>
+        <StackLayout
+            HorizontalOptions="FillAndExpand">
+            <AbsoluteLayout
+            HorizontalOptions="FillAndExpand">
+                <ffimageloading:CachedImage x:Name="BgImageSucursalesOrden" 
+                   Source="fondo3.jpg"
+                   Aspect="AspectFill"
+                   AbsoluteLayout.LayoutBounds="0.0, 0.0, 1.0, 1.0"
+                   AbsoluteLayout.LayoutFlags="All"/>
+
+                <StackLayout
+                Orientation="Vertical"
+                Margin="0"
+                Padding="0"
+                Spacing="0"
+                AbsoluteLayout.LayoutBounds="0.0, 0.0, 1.0, 1.0"
+                AbsoluteLayout.LayoutFlags="All"
+                BackgroundColor="Transparent"
+                HorizontalOptions="FillAndExpand">
+
+                    <StackLayout
+                        Orientation="Horizontal"
+                        BackgroundColor="#135fbd"
+                        HorizontalOptions="FillAndExpand"
+                        HeightRequest="55">
+
+                        <Button
+                            x:Name="btnBackSucursalesOrden"
+                            Text="Cancelar"
+                            CornerRadius="5"
+                            BackgroundColor="#009A00"
+                            TextColor="White"
+                            FontSize="18"
+                            Margin="6"
+                            />
+
+                        <Label Text="Sucursal"
+                               TextColor="White"
+                               FontSize="25"
+                               VerticalTextAlignment="Center"
+                               HorizontalTextAlignment="Center"
+                           />
+
+                    </StackLayout>
+                    <ScrollView
+                        BackgroundColor="Transparent"
+                        Margin="0"
+                        Orientation="Vertical"
+                        HorizontalOptions="FillAndExpand">
+                        <StackLayout
+                            BackgroundColor="Transparent"
+                            HorizontalOptions="FillAndExpand">
+                            <!-- BackgroundColor="#1274F4" -->
+                            <StackLayout
+                                BackgroundColor="#F35E00"
+                                Margin="10,10,10,0"
+                                Padding="10"
+                                HorizontalOptions="FillAndExpand"
+                                Orientation="Vertical">
+                                    <Label
+                                    Text="Selecciona tu sucursal"
+                                    TextColor="White"
+                                    FontSize="21"
+                                    VerticalTextAlignment="Center"
+                                    HorizontalTextAlignment="Center"
+                                    HorizontalOptions="FillAndExpand"/>
+                             </StackLayout>
+                            <StackLayout
+                                    BackgroundColor="#F35E00"
+                                    Margin="10"
+                                    Padding="10"
+                                    Spacing="10"
+                                    HorizontalOptions="FillAndExpand"
+                                    Orientation="Vertical"
+                                    >
+
+                                <Button
+                                    x:Name="btnSuc1"
+                                        Text="Sucursal Centro"
+                                        TextColor="White"
+                                        BackgroundColor="Red"
+                                        HorizontalOptions="FillAndExpand"
+                                        FontSize="18"
+                                        BorderRadius="5"
+                                        />
+                                <Button
+                                    x:Name="btnSuc2"
+                                        Text="Sucursal Feria"
+                                        TextColor="White"
+                                        BackgroundColor="Red"
+                                        HorizontalOptions="FillAndExpand"
+                                        FontSize="18"
+                                        BorderRadius="5"
+                                        />
+                                <Button
+                                    x:Name="btnSuc3"
+                                        Text="Sucursal Morelos"
+                                        TextColor="White"
+                                        BackgroundColor="Red"
+                                        HorizontalOptions="FillAndExpand"
+                                        FontSize="18"
+                                    BorderRadius="5"
+                                        />
+
+                            </StackLayout>
+
+
+                        </StackLayout>
+                    </ScrollView>
+                </StackLayout>
+
+            </AbsoluteLayout>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

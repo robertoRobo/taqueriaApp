@@ -1,0 +1,224 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="taqueria.PaLlevar3"
+             xmlns:ffimageloading="clr-namespace:FFImageLoading.Forms;assembly=FFImageLoading.Forms"
+             NavigationPage.HasNavigationBar="false">
+    <ContentPage.Content>
+        <StackLayout
+            HorizontalOptions="FillAndExpand">
+            <AbsoluteLayout
+            HorizontalOptions="FillAndExpand">
+                <ffimageloading:CachedImage x:Name="BgImageSucursalesOrden" 
+                   Source="fondo3.jpg"
+                   Aspect="AspectFill"
+                   AbsoluteLayout.LayoutBounds="0.0, 0.0, 1.0, 1.0"
+                   AbsoluteLayout.LayoutFlags="All"/>
+
+                <StackLayout
+                Orientation="Vertical"
+                Margin="0"
+                Padding="0"
+                Spacing="0"
+                AbsoluteLayout.LayoutBounds="0.0, 0.0, 1.0, 1.0"
+                AbsoluteLayout.LayoutFlags="All"
+                BackgroundColor="Transparent"
+                HorizontalOptions="FillAndExpand">
+
+                    <StackLayout
+                        Orientation="Horizontal"
+                        BackgroundColor="#135fbd"
+                        HorizontalOptions="FillAndExpand"
+                        HeightRequest="55">
+
+                        <Button
+                            x:Name="btnCancelarOrden"
+                            Text="Cancelar"
+                            CornerRadius="5"
+                            BackgroundColor="#009A00"
+                            TextColor="White"
+                            FontSize="18"
+                            Margin="6"
+                            />
+
+                        <Label Text="Orden"
+                               TextColor="White"
+                               FontSize="25"
+                               VerticalTextAlignment="Center"
+                               HorizontalTextAlignment="Center"
+                           />
+
+                    </StackLayout>
+
+                    <StackLayout
+                            BackgroundColor="Transparent"
+                            Margin="0"
+                        Orientation="Vertical"
+                            HorizontalOptions="FillAndExpand">
+                        <!-- BackgroundColor="#1274F4" -->
+                        <StackLayout
+                            BackgroundColor="#F35E00"
+                            Margin="10,10,10,0"
+                            Padding="10"
+                            HorizontalOptions="FillAndExpand"
+                            Orientation="Vertical">
+                            <Label
+                                Text="Revisa tu Orden"
+                                TextColor="White"
+                                FontSize="21"
+                                VerticalTextAlignment="Center"
+                                HorizontalTextAlignment="Center"
+                                HorizontalOptions="FillAndExpand"/>
+                        </StackLayout>
+                        <StackLayout
+                            BackgroundColor="#F35E00"
+                            Margin="10"
+                            Padding="10"
+                            Spacing="10"
+                            HorizontalOptions="FillAndExpand"
+                            Orientation="Vertical"
+                            >
+                            <StackLayout
+                                    Margin="0"
+                                    Spacing="15"
+                                    BackgroundColor="Transparent"
+                                    Orientation="Horizontal"
+                                    HorizontalOptions="FillAndExpand">
+                                <Label 
+                                        Text="Sucursal Centro"
+                                        TextColor="White"
+                                        FontSize="18"
+                                        HorizontalOptions="StartAndExpand"/>
+                                <Label 
+                                    x:Name="fecha"
+                                    TextColor="White"
+                                    FontSize="18"
+                                    HorizontalOptions="StartAndExpand"/>
+                            </StackLayout>
+
+                            <StackLayout
+                                Spacing="15"
+                                    BackgroundColor="Transparent"
+                                    Orientation="Horizontal"
+                                    HorizontalOptions="FillAndExpand">
+                                <Label 
+                                    Text="Total:"
+                                    TextColor="White"
+                                    FontSize="18"
+                                    HorizontalOptions="StartAndExpand"/>
+                                <Label
+                                    x:Name="total"                      
+                                        HorizontalOptions="StartAndExpand"
+                                        TextColor="White"
+                                        FontSize="18"/>
+                            </StackLayout>
+
+                            <StackLayout
+                                BackgroundColor="GhostWhite"
+                                    Margin="10,10,10,0">
+                                <ListView 
+                                        x:Name="listOrden">
+                                    <ListView.ItemTemplate>
+                                        <DataTemplate>
+                                            <ViewCell>
+                                                <StackLayout
+                                                        Orientation="Horizontal"
+                                                        Padding="10,0,10,0"
+                                                        Spacing="0"
+                                                        VerticalOptions="CenterAndExpand">
+                                                    <Label
+                                                            Text="{Binding Platillo}"
+                                                            TextColor="Black"
+                                                            FontSize="16"
+                                                            VerticalTextAlignment="Center"
+                                                            HorizontalTextAlignment="Center"
+                                                            HorizontalOptions="StartAndExpand"/>
+                                                    <Label
+                                                            Text="{Binding Cantidad}"
+                                                            TextColor="Black"
+                                                            FontSize="16"
+                                                            VerticalTextAlignment="Center"
+                                                            HorizontalTextAlignment="Center"
+                                                            HorizontalOptions="EndAndExpand"/>
+                                                </StackLayout>
+                                            </ViewCell>
+                                        </DataTemplate>
+                                    </ListView.ItemTemplate>
+                                </ListView>
+                            </StackLayout>
+
+                            <!--<StackLayout
+                                Orientation="Horizontal"
+                                BackgroundColor="Transparent"
+                                HorizontalOptions="FillAndExpand"
+                                HeightRequest="55">
+
+                                <StackLayout
+                                    Orientation="Horizontal"
+                                    HorizontalOptions="CenterAndExpand"
+                                    Spacing="40">
+                                    <Button
+                                        x:Name="btnModificarOrden"
+                                        Text="Modificar"
+                                        CornerRadius="5"
+                                        BackgroundColor="#009A00"
+                                        TextColor="White"
+                                        FontSize="19"
+                                        Margin="6"
+                                        />
+
+                                    <Button
+                                        x:Name="btnConfirmarOrden"
+                                        Text="Pagar"
+                                        CornerRadius="5"
+                                        BackgroundColor="Red"
+                                        TextColor="White"
+                                        FontSize="19"
+                                        Margin="6"
+                                        />
+                                </StackLayout>
+
+                            </StackLayout>-->
+
+
+                        </StackLayout>
+
+
+                    </StackLayout>
+
+                    <StackLayout
+                        Orientation="Horizontal"
+                        BackgroundColor="#135fbd"
+                        VerticalOptions="EndAndExpand"
+                        HorizontalOptions="FillAndExpand"
+                        HeightRequest="55">
+
+                        <StackLayout
+                        Orientation="Horizontal"
+                        HorizontalOptions="CenterAndExpand"
+                        Spacing="40">
+                            <Button
+                            x:Name="btnModificarOrden"
+                            Text="Modificar"
+                            CornerRadius="5"
+                            BackgroundColor="#009A00"
+                            TextColor="White"
+                            FontSize="19"
+                            Margin="6"
+                            />
+                            <Button
+                            x:Name="btnConfirmarOrden"
+                            Text="Pagar"
+                            CornerRadius="5"
+                            BackgroundColor="Red"
+                            TextColor="White"
+                            FontSize="19"
+                            Margin="6"
+                            />
+                        </StackLayout>
+                    </StackLayout>
+                </StackLayout>
+            </AbsoluteLayout>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

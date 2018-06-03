@@ -1,0 +1,1066 @@
+C:\Users\diego\Documents\Interfaces\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\taqueria.Android.dll
+C:\Users\diego\Documents\Interfaces\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\taqueria.Android.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\com.companyname.taqueria.apk
+C:\Users\diego\Documents\Interfaces\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\com.companyname.taqueria-Signed.apk
+C:\Users\diego\Documents\Interfaces\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\taqueria.dll
+C:\Users\diego\Documents\Interfaces\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\taqueria.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\taqueria.Android.csprojResolveAssemblyReference.cache
+C:\Users\diego\Documents\Interfaces\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\XbdMerge\Xamarin.GooglePlayServices.Basement.dll
+C:\Users\diego\Documents\Interfaces\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\XbdMerge\Xamarin.GooglePlayServices.Tasks.dll
+C:\Users\diego\Documents\Interfaces\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\XbdMerge\Xamarin.GooglePlayServices.Base.dll
+C:\Users\diego\Documents\Interfaces\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\XbdMerge\Xamarin.GooglePlayServices.Maps.dll
+C:\Users\diego\Documents\Interfaces\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\taqueria.Android.csproj.CoreCompileInputs.cache
+C:\Users\diego\Documents\Interfaces\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\taqueria.Android.csproj.CopyComplete
+C:\Users\diego\Documents\Interfaces\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\taqueria.Android.dll
+C:\Users\diego\Documents\Interfaces\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\taqueria.Android.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\android\bin\com.companyname.taqueria.apk
+C:\Users\diego\Documents\Interfaces\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\res\drawable-hdpi\icon.png
+C:\Users\diego\Documents\Interfaces\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\res\drawable-xhdpi\icon.png
+C:\Users\diego\Documents\Interfaces\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\res\drawable-xxhdpi\icon.png
+C:\Users\diego\Documents\Interfaces\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\res\layout\tabbar.xml
+C:\Users\diego\Documents\Interfaces\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\res\layout\toolbar.xml
+C:\Users\diego\Documents\Interfaces\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\res\values\styles.xml
+C:\Users\diego\Documents\Interfaces\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\res\drawable\fondo4.jpg
+C:\Users\diego\Documents\Interfaces\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\res\drawable\logo.png
+C:\Users\diego\Documents\Interfaces\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\res\drawable\fondo3.jpg
+C:\Users\diego\Documents\Interfaces\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\res\drawable\fondoorden2.jpg
+C:\Users\diego\Documents\Interfaces\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\res\drawable\promo.jpg
+C:\Users\diego\Documents\Interfaces\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\res\drawable\qrcode.png
+C:\Users\diego\Documents\Interfaces\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\R.cs.flag
+C:\Users\diego\Documents\Interfaces\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\uploadflags.txt
+C:\Users\diego\Documents\Interfaces\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\FFImageLoading.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\FFImageLoading.Forms.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\FFImageLoading.Forms.Droid.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\FFImageLoading.Platform.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\Mono.Android.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\mscorlib.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\System.Core.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\System.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\System.Xml.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\System.Xml.Linq.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\System.Net.Http.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\System.Runtime.Serialization.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\System.ServiceModel.Internals.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\Mono.Security.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\System.ComponentModel.Composition.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\System.Data.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\System.Numerics.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\System.Transactions.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\Mono.Data.Tds.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\System.IO.Compression.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\System.IO.Compression.FileSystem.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\System.Web.Services.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\linksrc\FFImageLoading.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\linksrc\FFImageLoading.Forms.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\linksrc\FFImageLoading.Forms.Droid.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\linksrc\FFImageLoading.Platform.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\linksrc\Mono.Android.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\linksrc\mscorlib.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\linksrc\System.Core.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\linksrc\System.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\linksrc\System.Xml.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\linksrc\System.Xml.Linq.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\linksrc\taqueria.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\linksrc\System.Net.Http.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\linksrc\System.Runtime.Serialization.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\linksrc\System.ServiceModel.Internals.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\linksrc\Mono.Security.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\linksrc\System.ComponentModel.Composition.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\linksrc\System.Data.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\linksrc\System.Numerics.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\linksrc\System.Transactions.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\linksrc\Mono.Data.Tds.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\linksrc\System.IO.Compression.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\linksrc\System.IO.Compression.FileSystem.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\linksrc\System.Web.Services.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\FormsViewGroup.dll.mdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\Xamarin.Forms.Core.dll.mdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\linksrc\taqueria.Android.dll.mdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\linksrc\FormsViewGroup.dll.mdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\linksrc\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\taqueria.Android.dll.mdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\android\assets\FormsViewGroup.dll.mdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\android\assets\taqueria.Android.dll.mdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\android\assets\FFImageLoading.Forms.Droid.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\android\assets\FFImageLoading.Forms.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\android\assets\FFImageLoading.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\android\assets\FFImageLoading.Platform.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\android\assets\Mono.Android.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\android\assets\Mono.Data.Tds.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\android\assets\Mono.Security.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\android\assets\mscorlib.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\android\assets\System.ComponentModel.Composition.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\android\assets\System.Core.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\android\assets\System.Data.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\android\assets\System.IO.Compression.FileSystem.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\android\assets\System.IO.Compression.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\android\assets\System.Net.Http.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\android\assets\System.Numerics.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\android\assets\System.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\android\assets\System.Runtime.Serialization.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\android\assets\System.ServiceModel.Internals.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\android\assets\System.Transactions.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\android\assets\System.Web.Services.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\android\assets\System.Xml.Linq.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\android\assets\System.Xml.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\android\assets\taqueria.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\System.IdentityModel.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\linksrc\System.IdentityModel.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\linksrc\Xamarin.Forms.Core.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\linksrc\Xamarin.Forms.Xaml.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\android\assets\System.IdentityModel.pdb
+C:\Users\diego\.nuget\packages\acr.support\2.1.0\lib\MonoAndroid10\Acr.Support.Android.dll
+C:\Users\diego\.nuget\packages\acr.userdialogs\6.5.1\lib\MonoAndroid10\Acr.UserDialogs.dll
+C:\Users\diego\Documents\Interfaces\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\Acr.UserDialogs.Interface.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\linksrc\Acr.UserDialogs.Interface.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\Acr.Support.Android.dll.mdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\Acr.UserDialogs.dll.mdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\linksrc\Acr.Support.Android.dll.mdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\android\assets\Acr.Support.Android.dll.mdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\android\assets\Acr.UserDialogs.Interface.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\linksrc\Xamarin.Forms.Core.dll.mdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\linksrc\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\RobertoVR\Desktop\app\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\taqueria.Android.dll
+C:\Users\RobertoVR\Desktop\app\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\taqueria.Android.pdb
+C:\Users\RobertoVR\Desktop\app\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\com.companyname.taqueria.apk
+C:\Users\RobertoVR\Desktop\app\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\com.companyname.taqueria-Signed.apk
+C:\Users\RobertoVR\Desktop\app\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\taqueria.dll
+C:\Users\RobertoVR\Desktop\app\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\taqueria.pdb
+C:\Users\RobertoVR\Desktop\app\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\taqueria.Android.csprojResolveAssemblyReference.cache
+C:\Users\RobertoVR\Desktop\app\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\XbdMerge\Xamarin.GooglePlayServices.Basement.dll
+C:\Users\RobertoVR\Desktop\app\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\XbdMerge\Xamarin.GooglePlayServices.Tasks.dll
+C:\Users\RobertoVR\Desktop\app\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\XbdMerge\Xamarin.GooglePlayServices.Base.dll
+C:\Users\RobertoVR\Desktop\app\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\XbdMerge\Xamarin.GooglePlayServices.Maps.dll
+C:\Users\RobertoVR\Desktop\app\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\taqueria.Android.csproj.CoreCompileInputs.cache
+C:\Users\RobertoVR\Desktop\app\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\taqueria.Android.dll
+C:\Users\RobertoVR\Desktop\app\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\taqueria.Android.pdb
+C:\Users\RobertoVR\Desktop\app\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\android\bin\com.companyname.taqueria.apk
+C:\Users\RobertoVR\Desktop\app\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\res\drawable-hdpi\icon.png
+C:\Users\RobertoVR\Desktop\app\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\res\drawable-xhdpi\icon.png
+C:\Users\RobertoVR\Desktop\app\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\res\drawable-xxhdpi\icon.png
+C:\Users\RobertoVR\Desktop\app\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\res\layout\tabbar.xml
+C:\Users\RobertoVR\Desktop\app\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\res\layout\toolbar.xml
+C:\Users\RobertoVR\Desktop\app\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\res\values\styles.xml
+C:\Users\RobertoVR\Desktop\app\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\res\drawable\fondo4.jpg
+C:\Users\RobertoVR\Desktop\app\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\res\drawable\logo.png
+C:\Users\RobertoVR\Desktop\app\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\res\drawable\fondo3.jpg
+C:\Users\RobertoVR\Desktop\app\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\res\drawable\fondoorden2.jpg
+C:\Users\RobertoVR\Desktop\app\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\res\drawable\promo.jpg
+C:\Users\RobertoVR\Desktop\app\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\res\drawable\qrcode.png
+C:\Users\RobertoVR\Desktop\app\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\R.cs.flag
+C:\Users\RobertoVR\Desktop\app\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\uploadflags.txt
+C:\Users\RobertoVR\Desktop\app\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\Acr.Support.Android.dll.mdb
+C:\Users\RobertoVR\Desktop\app\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\Acr.UserDialogs.dll.mdb
+C:\Users\RobertoVR\Desktop\app\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\FormsViewGroup.dll.mdb
+C:\Users\RobertoVR\Desktop\app\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\taqueria.Android.dll.mdb
+C:\Users\RobertoVR\Desktop\app\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\Xamarin.Forms.Core.dll.mdb
+C:\Users\RobertoVR\Desktop\app\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\RobertoVR\Desktop\app\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\RobertoVR\Desktop\app\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\android\assets\Acr.Support.Android.dll.mdb
+C:\Users\RobertoVR\Desktop\app\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\android\assets\FormsViewGroup.dll.mdb
+C:\Users\RobertoVR\Desktop\app\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\android\assets\taqueria.Android.dll.mdb
+C:\Users\RobertoVR\Desktop\app\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
+C:\Users\RobertoVR\Desktop\app\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\RobertoVR\Desktop\app\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\RobertoVR\Desktop\app\segundoAvance\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\taqueria.Android.dll
+C:\Users\RobertoVR\Desktop\app\segundoAvance\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\taqueria.Android.pdb
+C:\Users\RobertoVR\Desktop\app\segundoAvance\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\com.companyname.taqueria.apk
+C:\Users\RobertoVR\Desktop\app\segundoAvance\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\com.companyname.taqueria-Signed.apk
+C:\Users\RobertoVR\Desktop\app\segundoAvance\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\taqueria.dll
+C:\Users\RobertoVR\Desktop\app\segundoAvance\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\taqueria.pdb
+C:\Users\RobertoVR\Desktop\app\segundoAvance\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\taqueria.Android.csprojResolveAssemblyReference.cache
+C:\Users\RobertoVR\Desktop\app\segundoAvance\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\XbdMerge\Xamarin.GooglePlayServices.Basement.dll
+C:\Users\RobertoVR\Desktop\app\segundoAvance\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\XbdMerge\Xamarin.GooglePlayServices.Tasks.dll
+C:\Users\RobertoVR\Desktop\app\segundoAvance\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\XbdMerge\Xamarin.GooglePlayServices.Base.dll
+C:\Users\RobertoVR\Desktop\app\segundoAvance\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\XbdMerge\Xamarin.GooglePlayServices.Maps.dll
+C:\Users\RobertoVR\Desktop\app\segundoAvance\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\taqueria.Android.csproj.CoreCompileInputs.cache
+C:\Users\RobertoVR\Desktop\app\segundoAvance\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\taqueria.Android.dll
+C:\Users\RobertoVR\Desktop\app\segundoAvance\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\taqueria.Android.pdb
+C:\Users\RobertoVR\Desktop\app\segundoAvance\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\android\bin\com.companyname.taqueria.apk
+C:\Users\RobertoVR\Desktop\app\segundoAvance\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\res\drawable-hdpi\icon.png
+C:\Users\RobertoVR\Desktop\app\segundoAvance\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\res\drawable-xhdpi\icon.png
+C:\Users\RobertoVR\Desktop\app\segundoAvance\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\res\drawable-xxhdpi\icon.png
+C:\Users\RobertoVR\Desktop\app\segundoAvance\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\res\layout\tabbar.xml
+C:\Users\RobertoVR\Desktop\app\segundoAvance\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\res\layout\toolbar.xml
+C:\Users\RobertoVR\Desktop\app\segundoAvance\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\res\values\styles.xml
+C:\Users\RobertoVR\Desktop\app\segundoAvance\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\res\drawable\fondo4.jpg
+C:\Users\RobertoVR\Desktop\app\segundoAvance\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\res\drawable\logo.png
+C:\Users\RobertoVR\Desktop\app\segundoAvance\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\res\drawable\fondo3.jpg
+C:\Users\RobertoVR\Desktop\app\segundoAvance\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\res\drawable\fondoorden2.jpg
+C:\Users\RobertoVR\Desktop\app\segundoAvance\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\res\drawable\promo.jpg
+C:\Users\RobertoVR\Desktop\app\segundoAvance\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\res\drawable\qrcode.png
+C:\Users\RobertoVR\Desktop\app\segundoAvance\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\R.cs.flag
+C:\Users\RobertoVR\Desktop\app\segundoAvance\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\uploadflags.txt
+C:\Users\RobertoVR\Desktop\app\segundoAvance\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\Acr.Support.Android.dll.mdb
+C:\Users\RobertoVR\Desktop\app\segundoAvance\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\Acr.UserDialogs.dll.mdb
+C:\Users\RobertoVR\Desktop\app\segundoAvance\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\FormsViewGroup.dll.mdb
+C:\Users\RobertoVR\Desktop\app\segundoAvance\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\taqueria.Android.dll.mdb
+C:\Users\RobertoVR\Desktop\app\segundoAvance\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\Xamarin.Forms.Core.dll.mdb
+C:\Users\RobertoVR\Desktop\app\segundoAvance\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\RobertoVR\Desktop\app\segundoAvance\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\RobertoVR\Desktop\app\segundoAvance\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\android\assets\Acr.Support.Android.dll.mdb
+C:\Users\RobertoVR\Desktop\app\segundoAvance\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\android\assets\FormsViewGroup.dll.mdb
+C:\Users\RobertoVR\Desktop\app\segundoAvance\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\android\assets\taqueria.Android.dll.mdb
+C:\Users\RobertoVR\Desktop\app\segundoAvance\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
+C:\Users\RobertoVR\Desktop\app\segundoAvance\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\RobertoVR\Desktop\app\segundoAvance\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\XbdMerge\Xamarin.GooglePlayServices.Basement.dll
+C:\Users\diego\Documents\Interfaces\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\XbdMerge\Xamarin.GooglePlayServices.Tasks.dll
+C:\Users\diego\Documents\Interfaces\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\XbdMerge\Xamarin.GooglePlayServices.Base.dll
+C:\Users\diego\Documents\Interfaces\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\XbdMerge\Xamarin.GooglePlayServices.Maps.dll
+C:\Users\diego\Documents\Interfaces\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\taqueria.Android.dll
+C:\Users\diego\Documents\Interfaces\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\taqueria.Android.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\com.companyname.taqueria.apk
+C:\Users\diego\Documents\Interfaces\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\com.companyname.taqueria-Signed.apk
+C:\Users\diego\Documents\Interfaces\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\taqueria.dll
+C:\Users\diego\Documents\Interfaces\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\taqueria.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\taqueria.Android.csprojAssemblyReference.cache
+C:\Users\diego\Documents\Interfaces\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\taqueria.Android.csproj.CoreCompileInputs.cache
+C:\Users\diego\Documents\Interfaces\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\taqueria.Android.csproj.CopyComplete
+C:\Users\diego\Documents\Interfaces\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\taqueria.Android.dll
+C:\Users\diego\Documents\Interfaces\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\taqueria.Android.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\android\bin\com.companyname.taqueria.apk
+C:\Users\diego\Documents\Interfaces\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\res\drawable-hdpi\icon.png
+C:\Users\diego\Documents\Interfaces\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\res\drawable-xhdpi\icon.png
+C:\Users\diego\Documents\Interfaces\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\res\drawable-xxhdpi\icon.png
+C:\Users\diego\Documents\Interfaces\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\res\layout\tabbar.xml
+C:\Users\diego\Documents\Interfaces\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\res\layout\toolbar.xml
+C:\Users\diego\Documents\Interfaces\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\res\values\styles.xml
+C:\Users\diego\Documents\Interfaces\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\res\drawable\fondo4.jpg
+C:\Users\diego\Documents\Interfaces\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\res\drawable\logo.png
+C:\Users\diego\Documents\Interfaces\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\res\drawable\fondo3.jpg
+C:\Users\diego\Documents\Interfaces\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\res\drawable\fondoorden2.jpg
+C:\Users\diego\Documents\Interfaces\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\res\drawable\promo.jpg
+C:\Users\diego\Documents\Interfaces\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\res\drawable\qrcode.png
+C:\Users\diego\Documents\Interfaces\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\res\drawable\unselected_circle.png
+C:\Users\diego\Documents\Interfaces\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\res\drawable\selected_circle.png
+C:\Users\diego\Documents\Interfaces\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\res\drawable\selectedpage.png
+C:\Users\diego\Documents\Interfaces\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\R.cs.flag
+C:\Users\diego\Documents\Interfaces\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\R.txt
+C:\Users\diego\Documents\Interfaces\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\uploadflags.txt
+C:\Users\diego\Documents\Interfaces\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\FFImageLoading.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\FFImageLoading.Forms.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\FFImageLoading.Forms.Droid.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\FFImageLoading.Platform.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\Mono.Android.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\mscorlib.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\System.Core.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\System.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\System.IdentityModel.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\System.Json.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\System.Net.Http.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\System.Runtime.Serialization.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\System.Xml.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\System.Xml.Linq.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\System.ComponentModel.Composition.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\System.Data.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\System.Numerics.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\System.Transactions.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\System.IO.Compression.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\System.IO.Compression.FileSystem.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\System.Web.Services.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\Mono.Security.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\System.ServiceModel.Internals.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\linksrc\FFImageLoading.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\linksrc\FFImageLoading.Forms.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\linksrc\FFImageLoading.Forms.Droid.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\linksrc\FFImageLoading.Platform.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\linksrc\Mono.Android.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\linksrc\mscorlib.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\linksrc\System.Core.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\linksrc\System.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\linksrc\System.IdentityModel.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\linksrc\System.Json.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\linksrc\System.Net.Http.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\linksrc\System.Runtime.Serialization.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\linksrc\System.Xml.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\linksrc\System.Xml.Linq.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\linksrc\taqueria.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\linksrc\System.ComponentModel.Composition.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\linksrc\System.Data.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\linksrc\System.Numerics.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\linksrc\System.Transactions.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\linksrc\System.IO.Compression.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\linksrc\System.IO.Compression.FileSystem.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\linksrc\System.Web.Services.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\linksrc\Mono.Security.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\linksrc\System.ServiceModel.Internals.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\FormsViewGroup.dll.mdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\Xamarin.Forms.Core.dll.mdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\linksrc\taqueria.Android.dll.mdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\linksrc\FormsViewGroup.dll.mdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\linksrc\Xamarin.Forms.Core.dll.mdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\linksrc\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\linksrc\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\taqueria.Android.dll.mdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\android\assets\FormsViewGroup.dll.mdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\android\assets\taqueria.Android.dll.mdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\android\assets\FFImageLoading.Forms.Droid.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\android\assets\FFImageLoading.Forms.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\android\assets\FFImageLoading.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\android\assets\FFImageLoading.Platform.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\android\assets\Mono.Android.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\android\assets\Mono.Security.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\android\assets\mscorlib.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\android\assets\System.ComponentModel.Composition.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\android\assets\System.Core.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\android\assets\System.Data.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\android\assets\System.IdentityModel.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\android\assets\System.IO.Compression.FileSystem.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\android\assets\System.IO.Compression.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\android\assets\System.Json.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\android\assets\System.Net.Http.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\android\assets\System.Numerics.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\android\assets\System.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\android\assets\System.Runtime.Serialization.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\android\assets\System.ServiceModel.Internals.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\android\assets\System.Transactions.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\android\assets\System.Web.Services.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\android\assets\System.Xml.Linq.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\android\assets\System.Xml.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\android\assets\taqueria.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\Rg.Plugins.Popup.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\linksrc\Rg.Plugins.Popup.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\Rg.Plugins.Popup.Droid.dll.mdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\linksrc\Rg.Plugins.Popup.Droid.dll.mdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\android\assets\Rg.Plugins.Popup.Droid.dll.mdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\android\assets\Rg.Plugins.Popup.pdb
+C:\Users\paty0\Desktop\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\taqueria.Android.dll
+C:\Users\paty0\Desktop\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\taqueria.Android.pdb
+C:\Users\paty0\Desktop\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\com.companyname.taqueria.apk
+C:\Users\paty0\Desktop\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\com.companyname.taqueria-Signed.apk
+C:\Users\paty0\Desktop\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\taqueria.dll
+C:\Users\paty0\Desktop\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\taqueria.pdb
+C:\Users\paty0\Desktop\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\taqueria.Android.csprojResolveAssemblyReference.cache
+C:\Users\paty0\Desktop\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\XbdMerge\Xamarin.GooglePlayServices.Basement.dll
+C:\Users\paty0\Desktop\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\XbdMerge\Xamarin.GooglePlayServices.Tasks.dll
+C:\Users\paty0\Desktop\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\XbdMerge\Xamarin.GooglePlayServices.Base.dll
+C:\Users\paty0\Desktop\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\XbdMerge\Xamarin.GooglePlayServices.Maps.dll
+C:\Users\paty0\Desktop\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\taqueria.Android.csproj.CoreCompileInputs.cache
+C:\Users\paty0\Desktop\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\taqueria.Android.csproj.CopyComplete
+C:\Users\paty0\Desktop\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\taqueria.Android.dll
+C:\Users\paty0\Desktop\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\taqueria.Android.pdb
+C:\Users\paty0\Desktop\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\android\bin\com.companyname.taqueria.apk
+C:\Users\paty0\Desktop\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\res\drawable-hdpi\icon.png
+C:\Users\paty0\Desktop\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\res\drawable-xhdpi\icon.png
+C:\Users\paty0\Desktop\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\res\drawable-xxhdpi\icon.png
+C:\Users\paty0\Desktop\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\res\layout\tabbar.xml
+C:\Users\paty0\Desktop\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\res\layout\toolbar.xml
+C:\Users\paty0\Desktop\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\res\values\styles.xml
+C:\Users\paty0\Desktop\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\res\drawable\fondo4.jpg
+C:\Users\paty0\Desktop\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\res\drawable\logo.png
+C:\Users\paty0\Desktop\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\res\drawable\fondo3.jpg
+C:\Users\paty0\Desktop\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\res\drawable\fondoorden2.jpg
+C:\Users\paty0\Desktop\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\res\drawable\promo.jpg
+C:\Users\paty0\Desktop\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\res\drawable\qrcode.png
+C:\Users\paty0\Desktop\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\res\drawable\unselected_circle.png
+C:\Users\paty0\Desktop\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\res\drawable\selected_circle.png
+C:\Users\paty0\Desktop\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\res\drawable\selectedpage.png
+C:\Users\paty0\Desktop\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\R.cs.flag
+C:\Users\paty0\Desktop\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\uploadflags.txt
+C:\Users\paty0\Desktop\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\FFImageLoading.Forms.Droid.pdb
+C:\Users\paty0\Desktop\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\FFImageLoading.Forms.pdb
+C:\Users\paty0\Desktop\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\FFImageLoading.pdb
+C:\Users\paty0\Desktop\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\FFImageLoading.Platform.pdb
+C:\Users\paty0\Desktop\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\Mono.Android.pdb
+C:\Users\paty0\Desktop\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\Mono.Security.pdb
+C:\Users\paty0\Desktop\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\mscorlib.pdb
+C:\Users\paty0\Desktop\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\Rg.Plugins.Popup.pdb
+C:\Users\paty0\Desktop\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\System.ComponentModel.Composition.pdb
+C:\Users\paty0\Desktop\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\System.Core.pdb
+C:\Users\paty0\Desktop\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\System.Data.pdb
+C:\Users\paty0\Desktop\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\System.IdentityModel.pdb
+C:\Users\paty0\Desktop\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\System.IO.Compression.FileSystem.pdb
+C:\Users\paty0\Desktop\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\System.IO.Compression.pdb
+C:\Users\paty0\Desktop\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\System.Json.pdb
+C:\Users\paty0\Desktop\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\System.Net.Http.pdb
+C:\Users\paty0\Desktop\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\System.Numerics.pdb
+C:\Users\paty0\Desktop\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\System.pdb
+C:\Users\paty0\Desktop\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\System.Runtime.Serialization.pdb
+C:\Users\paty0\Desktop\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\System.ServiceModel.Internals.pdb
+C:\Users\paty0\Desktop\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\System.Transactions.pdb
+C:\Users\paty0\Desktop\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\System.Web.Services.pdb
+C:\Users\paty0\Desktop\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\System.Xml.Linq.pdb
+C:\Users\paty0\Desktop\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\System.Xml.pdb
+C:\Users\paty0\Desktop\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\FormsViewGroup.dll.mdb
+C:\Users\paty0\Desktop\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\Rg.Plugins.Popup.Droid.dll.mdb
+C:\Users\paty0\Desktop\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\taqueria.Android.dll.mdb
+C:\Users\paty0\Desktop\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\Xamarin.Forms.Core.dll.mdb
+C:\Users\paty0\Desktop\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\paty0\Desktop\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\paty0\Desktop\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\android\assets\FormsViewGroup.dll.mdb
+C:\Users\paty0\Desktop\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\android\assets\Rg.Plugins.Popup.Droid.dll.mdb
+C:\Users\paty0\Desktop\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\android\assets\taqueria.Android.dll.mdb
+C:\Users\paty0\Desktop\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
+C:\Users\paty0\Desktop\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\paty0\Desktop\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\paty0\Desktop\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\android\assets\FFImageLoading.Forms.Droid.pdb
+C:\Users\paty0\Desktop\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\android\assets\FFImageLoading.Forms.pdb
+C:\Users\paty0\Desktop\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\android\assets\FFImageLoading.pdb
+C:\Users\paty0\Desktop\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\android\assets\FFImageLoading.Platform.pdb
+C:\Users\paty0\Desktop\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\android\assets\Mono.Android.pdb
+C:\Users\paty0\Desktop\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\android\assets\Mono.Security.pdb
+C:\Users\paty0\Desktop\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\android\assets\mscorlib.pdb
+C:\Users\paty0\Desktop\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\android\assets\Rg.Plugins.Popup.pdb
+C:\Users\paty0\Desktop\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\android\assets\System.ComponentModel.Composition.pdb
+C:\Users\paty0\Desktop\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\android\assets\System.Core.pdb
+C:\Users\paty0\Desktop\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\android\assets\System.Data.pdb
+C:\Users\paty0\Desktop\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\android\assets\System.IdentityModel.pdb
+C:\Users\paty0\Desktop\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\android\assets\System.IO.Compression.FileSystem.pdb
+C:\Users\paty0\Desktop\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\android\assets\System.IO.Compression.pdb
+C:\Users\paty0\Desktop\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\android\assets\System.Json.pdb
+C:\Users\paty0\Desktop\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\android\assets\System.Net.Http.pdb
+C:\Users\paty0\Desktop\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\android\assets\System.Numerics.pdb
+C:\Users\paty0\Desktop\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\android\assets\System.pdb
+C:\Users\paty0\Desktop\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\android\assets\System.Runtime.Serialization.pdb
+C:\Users\paty0\Desktop\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\android\assets\System.ServiceModel.Internals.pdb
+C:\Users\paty0\Desktop\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\android\assets\System.Transactions.pdb
+C:\Users\paty0\Desktop\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\android\assets\System.Web.Services.pdb
+C:\Users\paty0\Desktop\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\android\assets\System.Xml.Linq.pdb
+C:\Users\paty0\Desktop\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\android\assets\System.Xml.pdb
+C:\Users\paty0\Desktop\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\android\assets\taqueria.pdb
+C:\Users\paty0\Desktop\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\linksrc\FormsViewGroup.dll.mdb
+C:\Users\paty0\Desktop\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\linksrc\Rg.Plugins.Popup.Droid.dll.mdb
+C:\Users\paty0\Desktop\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\linksrc\taqueria.Android.dll.mdb
+C:\Users\paty0\Desktop\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\linksrc\Xamarin.Forms.Core.dll.mdb
+C:\Users\paty0\Desktop\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\linksrc\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\paty0\Desktop\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\linksrc\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\paty0\Desktop\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\linksrc\FFImageLoading.Forms.Droid.pdb
+C:\Users\paty0\Desktop\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\linksrc\FFImageLoading.Forms.pdb
+C:\Users\paty0\Desktop\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\linksrc\FFImageLoading.pdb
+C:\Users\paty0\Desktop\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\linksrc\FFImageLoading.Platform.pdb
+C:\Users\paty0\Desktop\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\linksrc\Mono.Android.pdb
+C:\Users\paty0\Desktop\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\linksrc\Mono.Security.pdb
+C:\Users\paty0\Desktop\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\linksrc\mscorlib.pdb
+C:\Users\paty0\Desktop\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\linksrc\Rg.Plugins.Popup.pdb
+C:\Users\paty0\Desktop\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\linksrc\System.ComponentModel.Composition.pdb
+C:\Users\paty0\Desktop\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\linksrc\System.Core.pdb
+C:\Users\paty0\Desktop\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\linksrc\System.Data.pdb
+C:\Users\paty0\Desktop\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\linksrc\System.IdentityModel.pdb
+C:\Users\paty0\Desktop\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\linksrc\System.IO.Compression.FileSystem.pdb
+C:\Users\paty0\Desktop\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\linksrc\System.IO.Compression.pdb
+C:\Users\paty0\Desktop\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\linksrc\System.Json.pdb
+C:\Users\paty0\Desktop\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\linksrc\System.Net.Http.pdb
+C:\Users\paty0\Desktop\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\linksrc\System.Numerics.pdb
+C:\Users\paty0\Desktop\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\linksrc\System.pdb
+C:\Users\paty0\Desktop\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\linksrc\System.Runtime.Serialization.pdb
+C:\Users\paty0\Desktop\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\linksrc\System.ServiceModel.Internals.pdb
+C:\Users\paty0\Desktop\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\linksrc\System.Transactions.pdb
+C:\Users\paty0\Desktop\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\linksrc\System.Web.Services.pdb
+C:\Users\paty0\Desktop\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\linksrc\System.Xml.Linq.pdb
+C:\Users\paty0\Desktop\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\linksrc\System.Xml.pdb
+C:\Users\paty0\Desktop\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\linksrc\taqueria.pdb
+C:\Users\paty0\Desktop\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\Mono.Data.Tds.pdb
+C:\Users\paty0\Desktop\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\linksrc\Mono.Data.Tds.pdb
+C:\Users\paty0\Desktop\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\android\assets\Mono.Data.Tds.pdb
+C:\Users\paty0\Desktop\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\res\drawable\lengua.jpg
+C:\Users\paty0\Desktop\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\res\drawable\nopal.jpg
+C:\Users\paty0\Desktop\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\res\drawable\pastor.jpg
+C:\Users\paty0\Desktop\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\res\drawable\tripa.jpg
+C:\Users\paty0\Desktop\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\res\drawable\vegano.jpg
+C:\Users\paty0\Desktop\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\res\drawable\adobada.jpg
+C:\Users\paty0\Desktop\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\res\drawable\bistec.jpg
+C:\Users\paty0\Desktop\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\res\drawable\cabeza.jpg
+C:\Users\paty0\Desktop\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\res\drawable\camaron.jpg
+C:\Users\paty0\Desktop\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\res\drawable\chorizo.jpg
+C:\Users\paty0\Desktop\PopupApp\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\taqueria.Android.dll
+C:\Users\paty0\Desktop\PopupApp\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\taqueria.Android.pdb
+C:\Users\paty0\Desktop\PopupApp\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\com.companyname.taqueria.apk
+C:\Users\paty0\Desktop\PopupApp\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\com.companyname.taqueria-Signed.apk
+C:\Users\paty0\Desktop\PopupApp\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\taqueria.dll
+C:\Users\paty0\Desktop\PopupApp\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\taqueria.pdb
+C:\Users\paty0\Desktop\PopupApp\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\taqueria.Android.csprojResolveAssemblyReference.cache
+C:\Users\paty0\Desktop\PopupApp\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\XbdMerge\Xamarin.GooglePlayServices.Basement.dll
+C:\Users\paty0\Desktop\PopupApp\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\XbdMerge\Xamarin.GooglePlayServices.Tasks.dll
+C:\Users\paty0\Desktop\PopupApp\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\XbdMerge\Xamarin.GooglePlayServices.Base.dll
+C:\Users\paty0\Desktop\PopupApp\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\XbdMerge\Xamarin.GooglePlayServices.Maps.dll
+C:\Users\paty0\Desktop\PopupApp\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\taqueria.Android.csproj.CoreCompileInputs.cache
+C:\Users\paty0\Desktop\PopupApp\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\taqueria.Android.csproj.CopyComplete
+C:\Users\paty0\Desktop\PopupApp\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\taqueria.Android.dll
+C:\Users\paty0\Desktop\PopupApp\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\taqueria.Android.pdb
+C:\Users\paty0\Desktop\PopupApp\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\android\bin\com.companyname.taqueria.apk
+C:\Users\paty0\Desktop\PopupApp\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\res\drawable-hdpi\icon.png
+C:\Users\paty0\Desktop\PopupApp\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\res\drawable-xhdpi\icon.png
+C:\Users\paty0\Desktop\PopupApp\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\res\drawable-xxhdpi\icon.png
+C:\Users\paty0\Desktop\PopupApp\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\res\layout\tabbar.xml
+C:\Users\paty0\Desktop\PopupApp\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\res\layout\toolbar.xml
+C:\Users\paty0\Desktop\PopupApp\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\res\values\styles.xml
+C:\Users\paty0\Desktop\PopupApp\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\res\drawable\fondo4.jpg
+C:\Users\paty0\Desktop\PopupApp\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\res\drawable\logo.png
+C:\Users\paty0\Desktop\PopupApp\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\res\drawable\fondo3.jpg
+C:\Users\paty0\Desktop\PopupApp\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\res\drawable\fondoorden2.jpg
+C:\Users\paty0\Desktop\PopupApp\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\res\drawable\promo.jpg
+C:\Users\paty0\Desktop\PopupApp\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\res\drawable\qrcode.png
+C:\Users\paty0\Desktop\PopupApp\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\res\drawable\unselected_circle.png
+C:\Users\paty0\Desktop\PopupApp\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\res\drawable\selected_circle.png
+C:\Users\paty0\Desktop\PopupApp\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\res\drawable\selectedpage.png
+C:\Users\paty0\Desktop\PopupApp\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\res\drawable\lengua.jpg
+C:\Users\paty0\Desktop\PopupApp\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\res\drawable\nopal.jpg
+C:\Users\paty0\Desktop\PopupApp\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\res\drawable\pastor.jpg
+C:\Users\paty0\Desktop\PopupApp\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\res\drawable\tripa.jpg
+C:\Users\paty0\Desktop\PopupApp\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\res\drawable\vegano.jpg
+C:\Users\paty0\Desktop\PopupApp\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\res\drawable\adobada.jpg
+C:\Users\paty0\Desktop\PopupApp\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\res\drawable\bistec.jpg
+C:\Users\paty0\Desktop\PopupApp\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\res\drawable\cabeza.jpg
+C:\Users\paty0\Desktop\PopupApp\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\res\drawable\camaron.jpg
+C:\Users\paty0\Desktop\PopupApp\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\res\drawable\chorizo.jpg
+C:\Users\paty0\Desktop\PopupApp\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\R.cs.flag
+C:\Users\paty0\Desktop\PopupApp\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\uploadflags.txt
+C:\Users\paty0\Desktop\PopupApp\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\FFImageLoading.Forms.Droid.pdb
+C:\Users\paty0\Desktop\PopupApp\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\FFImageLoading.Forms.pdb
+C:\Users\paty0\Desktop\PopupApp\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\FFImageLoading.pdb
+C:\Users\paty0\Desktop\PopupApp\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\FFImageLoading.Platform.pdb
+C:\Users\paty0\Desktop\PopupApp\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\Mono.Android.pdb
+C:\Users\paty0\Desktop\PopupApp\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\Mono.Data.Tds.pdb
+C:\Users\paty0\Desktop\PopupApp\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\Mono.Security.pdb
+C:\Users\paty0\Desktop\PopupApp\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\mscorlib.pdb
+C:\Users\paty0\Desktop\PopupApp\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\Rg.Plugins.Popup.pdb
+C:\Users\paty0\Desktop\PopupApp\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\System.ComponentModel.Composition.pdb
+C:\Users\paty0\Desktop\PopupApp\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\System.Core.pdb
+C:\Users\paty0\Desktop\PopupApp\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\System.Data.pdb
+C:\Users\paty0\Desktop\PopupApp\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\System.IdentityModel.pdb
+C:\Users\paty0\Desktop\PopupApp\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\System.IO.Compression.FileSystem.pdb
+C:\Users\paty0\Desktop\PopupApp\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\System.IO.Compression.pdb
+C:\Users\paty0\Desktop\PopupApp\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\System.Json.pdb
+C:\Users\paty0\Desktop\PopupApp\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\System.Net.Http.pdb
+C:\Users\paty0\Desktop\PopupApp\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\System.Numerics.pdb
+C:\Users\paty0\Desktop\PopupApp\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\System.pdb
+C:\Users\paty0\Desktop\PopupApp\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\System.Runtime.Serialization.pdb
+C:\Users\paty0\Desktop\PopupApp\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\System.ServiceModel.Internals.pdb
+C:\Users\paty0\Desktop\PopupApp\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\System.Transactions.pdb
+C:\Users\paty0\Desktop\PopupApp\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\System.Web.Services.pdb
+C:\Users\paty0\Desktop\PopupApp\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\System.Xml.Linq.pdb
+C:\Users\paty0\Desktop\PopupApp\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\System.Xml.pdb
+C:\Users\paty0\Desktop\PopupApp\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\FormsViewGroup.dll.mdb
+C:\Users\paty0\Desktop\PopupApp\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\Rg.Plugins.Popup.Droid.dll.mdb
+C:\Users\paty0\Desktop\PopupApp\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\taqueria.Android.dll.mdb
+C:\Users\paty0\Desktop\PopupApp\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\Xamarin.Forms.Core.dll.mdb
+C:\Users\paty0\Desktop\PopupApp\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\paty0\Desktop\PopupApp\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\paty0\Desktop\PopupApp\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\android\assets\FormsViewGroup.dll.mdb
+C:\Users\paty0\Desktop\PopupApp\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\android\assets\Rg.Plugins.Popup.Droid.dll.mdb
+C:\Users\paty0\Desktop\PopupApp\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\android\assets\taqueria.Android.dll.mdb
+C:\Users\paty0\Desktop\PopupApp\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
+C:\Users\paty0\Desktop\PopupApp\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\paty0\Desktop\PopupApp\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\paty0\Desktop\PopupApp\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\android\assets\FFImageLoading.Forms.Droid.pdb
+C:\Users\paty0\Desktop\PopupApp\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\android\assets\FFImageLoading.Forms.pdb
+C:\Users\paty0\Desktop\PopupApp\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\android\assets\FFImageLoading.pdb
+C:\Users\paty0\Desktop\PopupApp\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\android\assets\FFImageLoading.Platform.pdb
+C:\Users\paty0\Desktop\PopupApp\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\android\assets\Mono.Android.pdb
+C:\Users\paty0\Desktop\PopupApp\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\android\assets\Mono.Data.Tds.pdb
+C:\Users\paty0\Desktop\PopupApp\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\android\assets\Mono.Security.pdb
+C:\Users\paty0\Desktop\PopupApp\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\android\assets\mscorlib.pdb
+C:\Users\paty0\Desktop\PopupApp\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\android\assets\Rg.Plugins.Popup.pdb
+C:\Users\paty0\Desktop\PopupApp\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\android\assets\System.ComponentModel.Composition.pdb
+C:\Users\paty0\Desktop\PopupApp\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\android\assets\System.Core.pdb
+C:\Users\paty0\Desktop\PopupApp\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\android\assets\System.Data.pdb
+C:\Users\paty0\Desktop\PopupApp\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\android\assets\System.IdentityModel.pdb
+C:\Users\paty0\Desktop\PopupApp\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\android\assets\System.IO.Compression.FileSystem.pdb
+C:\Users\paty0\Desktop\PopupApp\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\android\assets\System.IO.Compression.pdb
+C:\Users\paty0\Desktop\PopupApp\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\android\assets\System.Json.pdb
+C:\Users\paty0\Desktop\PopupApp\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\android\assets\System.Net.Http.pdb
+C:\Users\paty0\Desktop\PopupApp\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\android\assets\System.Numerics.pdb
+C:\Users\paty0\Desktop\PopupApp\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\android\assets\System.pdb
+C:\Users\paty0\Desktop\PopupApp\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\android\assets\System.Runtime.Serialization.pdb
+C:\Users\paty0\Desktop\PopupApp\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\android\assets\System.ServiceModel.Internals.pdb
+C:\Users\paty0\Desktop\PopupApp\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\android\assets\System.Transactions.pdb
+C:\Users\paty0\Desktop\PopupApp\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\android\assets\System.Web.Services.pdb
+C:\Users\paty0\Desktop\PopupApp\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\android\assets\System.Xml.Linq.pdb
+C:\Users\paty0\Desktop\PopupApp\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\android\assets\System.Xml.pdb
+C:\Users\paty0\Desktop\PopupApp\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\android\assets\taqueria.pdb
+C:\Users\paty0\Desktop\PopupApp\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\linksrc\FormsViewGroup.dll.mdb
+C:\Users\paty0\Desktop\PopupApp\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\linksrc\Rg.Plugins.Popup.Droid.dll.mdb
+C:\Users\paty0\Desktop\PopupApp\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\linksrc\taqueria.Android.dll.mdb
+C:\Users\paty0\Desktop\PopupApp\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\linksrc\Xamarin.Forms.Core.dll.mdb
+C:\Users\paty0\Desktop\PopupApp\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\linksrc\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\paty0\Desktop\PopupApp\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\linksrc\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\paty0\Desktop\PopupApp\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\linksrc\FFImageLoading.Forms.Droid.pdb
+C:\Users\paty0\Desktop\PopupApp\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\linksrc\FFImageLoading.Forms.pdb
+C:\Users\paty0\Desktop\PopupApp\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\linksrc\FFImageLoading.pdb
+C:\Users\paty0\Desktop\PopupApp\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\linksrc\FFImageLoading.Platform.pdb
+C:\Users\paty0\Desktop\PopupApp\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\linksrc\Mono.Android.pdb
+C:\Users\paty0\Desktop\PopupApp\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\linksrc\Mono.Data.Tds.pdb
+C:\Users\paty0\Desktop\PopupApp\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\linksrc\Mono.Security.pdb
+C:\Users\paty0\Desktop\PopupApp\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\linksrc\mscorlib.pdb
+C:\Users\paty0\Desktop\PopupApp\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\linksrc\Rg.Plugins.Popup.pdb
+C:\Users\paty0\Desktop\PopupApp\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\linksrc\System.ComponentModel.Composition.pdb
+C:\Users\paty0\Desktop\PopupApp\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\linksrc\System.Core.pdb
+C:\Users\paty0\Desktop\PopupApp\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\linksrc\System.Data.pdb
+C:\Users\paty0\Desktop\PopupApp\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\linksrc\System.IdentityModel.pdb
+C:\Users\paty0\Desktop\PopupApp\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\linksrc\System.IO.Compression.FileSystem.pdb
+C:\Users\paty0\Desktop\PopupApp\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\linksrc\System.IO.Compression.pdb
+C:\Users\paty0\Desktop\PopupApp\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\linksrc\System.Json.pdb
+C:\Users\paty0\Desktop\PopupApp\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\linksrc\System.Net.Http.pdb
+C:\Users\paty0\Desktop\PopupApp\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\linksrc\System.Numerics.pdb
+C:\Users\paty0\Desktop\PopupApp\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\linksrc\System.pdb
+C:\Users\paty0\Desktop\PopupApp\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\linksrc\System.Runtime.Serialization.pdb
+C:\Users\paty0\Desktop\PopupApp\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\linksrc\System.ServiceModel.Internals.pdb
+C:\Users\paty0\Desktop\PopupApp\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\linksrc\System.Transactions.pdb
+C:\Users\paty0\Desktop\PopupApp\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\linksrc\System.Web.Services.pdb
+C:\Users\paty0\Desktop\PopupApp\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\linksrc\System.Xml.Linq.pdb
+C:\Users\paty0\Desktop\PopupApp\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\linksrc\System.Xml.pdb
+C:\Users\paty0\Desktop\PopupApp\Tacos Tito V2\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\linksrc\taqueria.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V4\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\taqueria.Android.csprojAssemblyReference.cache
+C:\Users\diego\Documents\Interfaces\Tacos Tito V4\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\taqueria.Android.dll
+C:\Users\diego\Documents\Interfaces\Tacos Tito V4\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\taqueria.Android.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V4\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\taqueria.Android.dll
+C:\Users\diego\Documents\Interfaces\Tacos Tito V4\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\taqueria.Android.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V4\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\com.companyname.taqueria.apk
+C:\Users\diego\Documents\Interfaces\Tacos Tito V4\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\com.companyname.taqueria-Signed.apk
+C:\Users\diego\Documents\Interfaces\Tacos Tito V4\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\taqueria.dll
+C:\Users\diego\Documents\Interfaces\Tacos Tito V4\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\taqueria.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V4\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\XbdMerge\Xamarin.GooglePlayServices.Basement.dll
+C:\Users\diego\Documents\Interfaces\Tacos Tito V4\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\XbdMerge\Xamarin.GooglePlayServices.Tasks.dll
+C:\Users\diego\Documents\Interfaces\Tacos Tito V4\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\XbdMerge\Xamarin.GooglePlayServices.Base.dll
+C:\Users\diego\Documents\Interfaces\Tacos Tito V4\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\XbdMerge\Xamarin.GooglePlayServices.Maps.dll
+C:\Users\diego\Documents\Interfaces\Tacos Tito V4\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\taqueria.Android.csproj.CoreCompileInputs.cache
+C:\Users\diego\Documents\Interfaces\Tacos Tito V4\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\taqueria.Android.csproj.CopyComplete
+C:\Users\diego\Documents\Interfaces\Tacos Tito V4\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\android\bin\com.companyname.taqueria.apk
+C:\Users\diego\Documents\Interfaces\Tacos Tito V4\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\res\drawable-hdpi\icon.png
+C:\Users\diego\Documents\Interfaces\Tacos Tito V4\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\res\drawable-xhdpi\icon.png
+C:\Users\diego\Documents\Interfaces\Tacos Tito V4\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\res\drawable-xxhdpi\icon.png
+C:\Users\diego\Documents\Interfaces\Tacos Tito V4\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\res\layout\tabbar.xml
+C:\Users\diego\Documents\Interfaces\Tacos Tito V4\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\res\layout\toolbar.xml
+C:\Users\diego\Documents\Interfaces\Tacos Tito V4\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\res\values\styles.xml
+C:\Users\diego\Documents\Interfaces\Tacos Tito V4\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\res\drawable\fondo4.jpg
+C:\Users\diego\Documents\Interfaces\Tacos Tito V4\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\res\drawable\logo.png
+C:\Users\diego\Documents\Interfaces\Tacos Tito V4\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\res\drawable\fondo3.jpg
+C:\Users\diego\Documents\Interfaces\Tacos Tito V4\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\res\drawable\fondoorden2.jpg
+C:\Users\diego\Documents\Interfaces\Tacos Tito V4\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\res\drawable\promo.jpg
+C:\Users\diego\Documents\Interfaces\Tacos Tito V4\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\res\drawable\qrcode.png
+C:\Users\diego\Documents\Interfaces\Tacos Tito V4\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\res\drawable\unselected_circle.png
+C:\Users\diego\Documents\Interfaces\Tacos Tito V4\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\res\drawable\selected_circle.png
+C:\Users\diego\Documents\Interfaces\Tacos Tito V4\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\res\drawable\selectedpage.png
+C:\Users\diego\Documents\Interfaces\Tacos Tito V4\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\res\drawable\lengua.jpg
+C:\Users\diego\Documents\Interfaces\Tacos Tito V4\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\res\drawable\nopal.jpg
+C:\Users\diego\Documents\Interfaces\Tacos Tito V4\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\res\drawable\pastor.jpg
+C:\Users\diego\Documents\Interfaces\Tacos Tito V4\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\res\drawable\tripa.jpg
+C:\Users\diego\Documents\Interfaces\Tacos Tito V4\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\res\drawable\vegano.jpg
+C:\Users\diego\Documents\Interfaces\Tacos Tito V4\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\res\drawable\adobada.jpg
+C:\Users\diego\Documents\Interfaces\Tacos Tito V4\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\res\drawable\bistec.jpg
+C:\Users\diego\Documents\Interfaces\Tacos Tito V4\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\res\drawable\cabeza.jpg
+C:\Users\diego\Documents\Interfaces\Tacos Tito V4\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\res\drawable\camaron.jpg
+C:\Users\diego\Documents\Interfaces\Tacos Tito V4\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\res\drawable\chorizo.jpg
+C:\Users\diego\Documents\Interfaces\Tacos Tito V4\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\res\drawable\ordenicon.png
+C:\Users\diego\Documents\Interfaces\Tacos Tito V4\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\res\drawable\conforder4.png
+C:\Users\diego\Documents\Interfaces\Tacos Tito V4\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\R.cs.flag
+C:\Users\diego\Documents\Interfaces\Tacos Tito V4\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\R.txt
+C:\Users\diego\Documents\Interfaces\Tacos Tito V4\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\uploadflags.txt
+C:\Users\diego\Documents\Interfaces\Tacos Tito V4\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\FFImageLoading.Forms.Droid.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V4\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\FFImageLoading.Forms.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V4\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\FFImageLoading.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V4\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\FFImageLoading.Platform.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V4\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\Mono.Android.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V4\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\Mono.Data.Tds.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V4\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\Mono.Security.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V4\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\mscorlib.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V4\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\Rg.Plugins.Popup.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V4\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\System.ComponentModel.Composition.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V4\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\System.Core.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V4\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\System.Data.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V4\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\System.IdentityModel.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V4\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\System.IO.Compression.FileSystem.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V4\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\System.IO.Compression.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V4\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\System.Json.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V4\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\System.Net.Http.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V4\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\System.Numerics.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V4\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\System.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V4\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\System.Runtime.Serialization.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V4\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\System.ServiceModel.Internals.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V4\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\System.Transactions.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V4\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\System.Web.Services.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V4\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\System.Xml.Linq.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V4\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\System.Xml.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V4\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\FormsViewGroup.dll.mdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V4\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\Rg.Plugins.Popup.Droid.dll.mdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V4\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\taqueria.Android.dll.mdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V4\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\Xamarin.Forms.Core.dll.mdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V4\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V4\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V4\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\android\assets\FormsViewGroup.dll.mdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V4\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\android\assets\Rg.Plugins.Popup.Droid.dll.mdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V4\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\android\assets\taqueria.Android.dll.mdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V4\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V4\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V4\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V4\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\android\assets\FFImageLoading.Forms.Droid.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V4\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\android\assets\FFImageLoading.Forms.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V4\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\android\assets\FFImageLoading.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V4\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\android\assets\FFImageLoading.Platform.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V4\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\android\assets\Mono.Android.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V4\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\android\assets\Mono.Data.Tds.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V4\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\android\assets\Mono.Security.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V4\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\android\assets\mscorlib.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V4\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\android\assets\Rg.Plugins.Popup.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V4\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\android\assets\System.ComponentModel.Composition.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V4\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\android\assets\System.Core.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V4\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\android\assets\System.Data.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V4\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\android\assets\System.IdentityModel.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V4\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\android\assets\System.IO.Compression.FileSystem.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V4\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\android\assets\System.IO.Compression.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V4\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\android\assets\System.Json.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V4\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\android\assets\System.Net.Http.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V4\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\android\assets\System.Numerics.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V4\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\android\assets\System.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V4\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\android\assets\System.Runtime.Serialization.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V4\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\android\assets\System.ServiceModel.Internals.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V4\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\android\assets\System.Transactions.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V4\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\android\assets\System.Web.Services.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V4\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\android\assets\System.Xml.Linq.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V4\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\android\assets\System.Xml.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V4\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\android\assets\taqueria.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V4\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\linksrc\FormsViewGroup.dll.mdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V4\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\linksrc\Rg.Plugins.Popup.Droid.dll.mdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V4\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\linksrc\taqueria.Android.dll.mdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V4\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\linksrc\Xamarin.Forms.Core.dll.mdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V4\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\linksrc\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V4\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\linksrc\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V4\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\linksrc\FFImageLoading.Forms.Droid.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V4\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\linksrc\FFImageLoading.Forms.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V4\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\linksrc\FFImageLoading.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V4\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\linksrc\FFImageLoading.Platform.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V4\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\linksrc\Mono.Android.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V4\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\linksrc\Mono.Data.Tds.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V4\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\linksrc\Mono.Security.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V4\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\linksrc\mscorlib.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V4\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\linksrc\Rg.Plugins.Popup.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V4\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\linksrc\System.ComponentModel.Composition.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V4\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\linksrc\System.Core.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V4\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\linksrc\System.Data.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V4\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\linksrc\System.IdentityModel.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V4\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\linksrc\System.IO.Compression.FileSystem.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V4\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\linksrc\System.IO.Compression.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V4\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\linksrc\System.Json.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V4\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\linksrc\System.Net.Http.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V4\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\linksrc\System.Numerics.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V4\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\linksrc\System.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V4\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\linksrc\System.Runtime.Serialization.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V4\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\linksrc\System.ServiceModel.Internals.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V4\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\linksrc\System.Transactions.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V4\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\linksrc\System.Web.Services.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V4\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\linksrc\System.Xml.Linq.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V4\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\linksrc\System.Xml.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V4\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\linksrc\taqueria.pdb
+C:\Users\paty0\Desktop\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\taqueria.Android.dll
+C:\Users\paty0\Desktop\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\taqueria.Android.pdb
+C:\Users\paty0\Desktop\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\com.companyname.taqueria.apk
+C:\Users\paty0\Desktop\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\com.companyname.taqueria-Signed.apk
+C:\Users\paty0\Desktop\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\taqueria.dll
+C:\Users\paty0\Desktop\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\taqueria.pdb
+C:\Users\paty0\Desktop\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\taqueria.Android.csprojResolveAssemblyReference.cache
+C:\Users\paty0\Desktop\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\XbdMerge\Xamarin.GooglePlayServices.Basement.dll
+C:\Users\paty0\Desktop\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\XbdMerge\Xamarin.GooglePlayServices.Tasks.dll
+C:\Users\paty0\Desktop\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\XbdMerge\Xamarin.GooglePlayServices.Base.dll
+C:\Users\paty0\Desktop\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\XbdMerge\Xamarin.GooglePlayServices.Maps.dll
+C:\Users\paty0\Desktop\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\taqueria.Android.csproj.CoreCompileInputs.cache
+C:\Users\paty0\Desktop\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\taqueria.Android.csproj.CopyComplete
+C:\Users\paty0\Desktop\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\taqueria.Android.dll
+C:\Users\paty0\Desktop\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\taqueria.Android.pdb
+C:\Users\paty0\Desktop\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\android\bin\com.companyname.taqueria.apk
+C:\Users\paty0\Desktop\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\res\drawable-hdpi\icon.png
+C:\Users\paty0\Desktop\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\res\drawable-xhdpi\icon.png
+C:\Users\paty0\Desktop\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\res\drawable-xxhdpi\icon.png
+C:\Users\paty0\Desktop\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\res\layout\tabbar.xml
+C:\Users\paty0\Desktop\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\res\layout\toolbar.xml
+C:\Users\paty0\Desktop\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\res\values\styles.xml
+C:\Users\paty0\Desktop\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\res\drawable\fondo4.jpg
+C:\Users\paty0\Desktop\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\res\drawable\logo.png
+C:\Users\paty0\Desktop\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\res\drawable\fondo3.jpg
+C:\Users\paty0\Desktop\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\res\drawable\fondoorden2.jpg
+C:\Users\paty0\Desktop\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\res\drawable\promo.jpg
+C:\Users\paty0\Desktop\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\res\drawable\qrcode.png
+C:\Users\paty0\Desktop\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\res\drawable\unselected_circle.png
+C:\Users\paty0\Desktop\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\res\drawable\selected_circle.png
+C:\Users\paty0\Desktop\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\res\drawable\selectedpage.png
+C:\Users\paty0\Desktop\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\res\drawable\lengua.jpg
+C:\Users\paty0\Desktop\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\res\drawable\nopal.jpg
+C:\Users\paty0\Desktop\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\res\drawable\pastor.jpg
+C:\Users\paty0\Desktop\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\res\drawable\tripa.jpg
+C:\Users\paty0\Desktop\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\res\drawable\vegano.jpg
+C:\Users\paty0\Desktop\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\res\drawable\adobada.jpg
+C:\Users\paty0\Desktop\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\res\drawable\bistec.jpg
+C:\Users\paty0\Desktop\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\res\drawable\cabeza.jpg
+C:\Users\paty0\Desktop\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\res\drawable\camaron.jpg
+C:\Users\paty0\Desktop\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\res\drawable\chorizo.jpg
+C:\Users\paty0\Desktop\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\res\drawable\ordenicon.png
+C:\Users\paty0\Desktop\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\res\drawable\conforder4.png
+C:\Users\paty0\Desktop\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\res\drawable\tiramisu.jpg
+C:\Users\paty0\Desktop\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\res\drawable\wafles.jpg
+C:\Users\paty0\Desktop\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\res\drawable\ahogada.jpg
+C:\Users\paty0\Desktop\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\res\drawable\barda.jpg
+C:\Users\paty0\Desktop\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\res\drawable\cerveza.jpg
+C:\Users\paty0\Desktop\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\res\drawable\coca.jpg
+C:\Users\paty0\Desktop\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\res\drawable\cubana.jpg
+C:\Users\paty0\Desktop\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\res\drawable\fresca.jpg
+C:\Users\paty0\Desktop\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\res\drawable\pastel.jpg
+C:\Users\paty0\Desktop\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\R.cs.flag
+C:\Users\paty0\Desktop\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\uploadflags.txt
+C:\Users\paty0\Desktop\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\FFImageLoading.Forms.Droid.pdb
+C:\Users\paty0\Desktop\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\FFImageLoading.Forms.pdb
+C:\Users\paty0\Desktop\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\FFImageLoading.pdb
+C:\Users\paty0\Desktop\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\FFImageLoading.Platform.pdb
+C:\Users\paty0\Desktop\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\Mono.Android.pdb
+C:\Users\paty0\Desktop\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\Mono.Data.Tds.pdb
+C:\Users\paty0\Desktop\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\Mono.Security.pdb
+C:\Users\paty0\Desktop\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\mscorlib.pdb
+C:\Users\paty0\Desktop\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\Rg.Plugins.Popup.pdb
+C:\Users\paty0\Desktop\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\System.ComponentModel.Composition.pdb
+C:\Users\paty0\Desktop\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\System.Core.pdb
+C:\Users\paty0\Desktop\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\System.Data.pdb
+C:\Users\paty0\Desktop\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\System.IdentityModel.pdb
+C:\Users\paty0\Desktop\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\System.IO.Compression.FileSystem.pdb
+C:\Users\paty0\Desktop\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\System.IO.Compression.pdb
+C:\Users\paty0\Desktop\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\System.Json.pdb
+C:\Users\paty0\Desktop\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\System.Net.Http.pdb
+C:\Users\paty0\Desktop\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\System.Numerics.pdb
+C:\Users\paty0\Desktop\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\System.pdb
+C:\Users\paty0\Desktop\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\System.Runtime.Serialization.pdb
+C:\Users\paty0\Desktop\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\System.ServiceModel.Internals.pdb
+C:\Users\paty0\Desktop\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\System.Transactions.pdb
+C:\Users\paty0\Desktop\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\System.Web.Services.pdb
+C:\Users\paty0\Desktop\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\System.Xml.Linq.pdb
+C:\Users\paty0\Desktop\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\System.Xml.pdb
+C:\Users\paty0\Desktop\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\FormsViewGroup.dll.mdb
+C:\Users\paty0\Desktop\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\Rg.Plugins.Popup.Droid.dll.mdb
+C:\Users\paty0\Desktop\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\taqueria.Android.dll.mdb
+C:\Users\paty0\Desktop\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\Xamarin.Forms.Core.dll.mdb
+C:\Users\paty0\Desktop\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\paty0\Desktop\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\paty0\Desktop\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\android\assets\FormsViewGroup.dll.mdb
+C:\Users\paty0\Desktop\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\android\assets\Rg.Plugins.Popup.Droid.dll.mdb
+C:\Users\paty0\Desktop\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\android\assets\taqueria.Android.dll.mdb
+C:\Users\paty0\Desktop\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
+C:\Users\paty0\Desktop\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\paty0\Desktop\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\paty0\Desktop\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\android\assets\FFImageLoading.Forms.Droid.pdb
+C:\Users\paty0\Desktop\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\android\assets\FFImageLoading.Forms.pdb
+C:\Users\paty0\Desktop\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\android\assets\FFImageLoading.pdb
+C:\Users\paty0\Desktop\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\android\assets\FFImageLoading.Platform.pdb
+C:\Users\paty0\Desktop\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\android\assets\Mono.Android.pdb
+C:\Users\paty0\Desktop\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\android\assets\Mono.Data.Tds.pdb
+C:\Users\paty0\Desktop\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\android\assets\Mono.Security.pdb
+C:\Users\paty0\Desktop\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\android\assets\mscorlib.pdb
+C:\Users\paty0\Desktop\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\android\assets\Rg.Plugins.Popup.pdb
+C:\Users\paty0\Desktop\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\android\assets\System.ComponentModel.Composition.pdb
+C:\Users\paty0\Desktop\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\android\assets\System.Core.pdb
+C:\Users\paty0\Desktop\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\android\assets\System.Data.pdb
+C:\Users\paty0\Desktop\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\android\assets\System.IdentityModel.pdb
+C:\Users\paty0\Desktop\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\android\assets\System.IO.Compression.FileSystem.pdb
+C:\Users\paty0\Desktop\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\android\assets\System.IO.Compression.pdb
+C:\Users\paty0\Desktop\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\android\assets\System.Json.pdb
+C:\Users\paty0\Desktop\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\android\assets\System.Net.Http.pdb
+C:\Users\paty0\Desktop\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\android\assets\System.Numerics.pdb
+C:\Users\paty0\Desktop\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\android\assets\System.pdb
+C:\Users\paty0\Desktop\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\android\assets\System.Runtime.Serialization.pdb
+C:\Users\paty0\Desktop\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\android\assets\System.ServiceModel.Internals.pdb
+C:\Users\paty0\Desktop\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\android\assets\System.Transactions.pdb
+C:\Users\paty0\Desktop\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\android\assets\System.Web.Services.pdb
+C:\Users\paty0\Desktop\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\android\assets\System.Xml.Linq.pdb
+C:\Users\paty0\Desktop\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\android\assets\System.Xml.pdb
+C:\Users\paty0\Desktop\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\android\assets\taqueria.pdb
+C:\Users\paty0\Desktop\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\linksrc\FormsViewGroup.dll.mdb
+C:\Users\paty0\Desktop\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\linksrc\Rg.Plugins.Popup.Droid.dll.mdb
+C:\Users\paty0\Desktop\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\linksrc\taqueria.Android.dll.mdb
+C:\Users\paty0\Desktop\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\linksrc\Xamarin.Forms.Core.dll.mdb
+C:\Users\paty0\Desktop\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\linksrc\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\paty0\Desktop\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\linksrc\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\paty0\Desktop\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\linksrc\FFImageLoading.Forms.Droid.pdb
+C:\Users\paty0\Desktop\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\linksrc\FFImageLoading.Forms.pdb
+C:\Users\paty0\Desktop\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\linksrc\FFImageLoading.pdb
+C:\Users\paty0\Desktop\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\linksrc\FFImageLoading.Platform.pdb
+C:\Users\paty0\Desktop\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\linksrc\Mono.Android.pdb
+C:\Users\paty0\Desktop\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\linksrc\Mono.Data.Tds.pdb
+C:\Users\paty0\Desktop\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\linksrc\Mono.Security.pdb
+C:\Users\paty0\Desktop\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\linksrc\mscorlib.pdb
+C:\Users\paty0\Desktop\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\linksrc\Rg.Plugins.Popup.pdb
+C:\Users\paty0\Desktop\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\linksrc\System.ComponentModel.Composition.pdb
+C:\Users\paty0\Desktop\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\linksrc\System.Core.pdb
+C:\Users\paty0\Desktop\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\linksrc\System.Data.pdb
+C:\Users\paty0\Desktop\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\linksrc\System.IdentityModel.pdb
+C:\Users\paty0\Desktop\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\linksrc\System.IO.Compression.FileSystem.pdb
+C:\Users\paty0\Desktop\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\linksrc\System.IO.Compression.pdb
+C:\Users\paty0\Desktop\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\linksrc\System.Json.pdb
+C:\Users\paty0\Desktop\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\linksrc\System.Net.Http.pdb
+C:\Users\paty0\Desktop\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\linksrc\System.Numerics.pdb
+C:\Users\paty0\Desktop\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\linksrc\System.pdb
+C:\Users\paty0\Desktop\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\linksrc\System.Runtime.Serialization.pdb
+C:\Users\paty0\Desktop\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\linksrc\System.ServiceModel.Internals.pdb
+C:\Users\paty0\Desktop\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\linksrc\System.Transactions.pdb
+C:\Users\paty0\Desktop\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\linksrc\System.Web.Services.pdb
+C:\Users\paty0\Desktop\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\linksrc\System.Xml.Linq.pdb
+C:\Users\paty0\Desktop\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\linksrc\System.Xml.pdb
+C:\Users\paty0\Desktop\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\linksrc\taqueria.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\taqueria.Android.csprojAssemblyReference.cache
+C:\Users\diego\Documents\Interfaces\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\taqueria.Android.dll
+C:\Users\diego\Documents\Interfaces\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\taqueria.Android.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\taqueria.Android.dll
+C:\Users\diego\Documents\Interfaces\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\taqueria.Android.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\com.companyname.taqueria.apk
+C:\Users\diego\Documents\Interfaces\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\com.companyname.taqueria-Signed.apk
+C:\Users\diego\Documents\Interfaces\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\taqueria.dll
+C:\Users\diego\Documents\Interfaces\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\taqueria.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\XbdMerge\Xamarin.GooglePlayServices.Basement.dll
+C:\Users\diego\Documents\Interfaces\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\XbdMerge\Xamarin.GooglePlayServices.Tasks.dll
+C:\Users\diego\Documents\Interfaces\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\XbdMerge\Xamarin.GooglePlayServices.Base.dll
+C:\Users\diego\Documents\Interfaces\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\XbdMerge\Xamarin.GooglePlayServices.Maps.dll
+C:\Users\diego\Documents\Interfaces\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\taqueria.Android.csproj.CoreCompileInputs.cache
+C:\Users\diego\Documents\Interfaces\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\taqueria.Android.csproj.CopyComplete
+C:\Users\diego\Documents\Interfaces\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\android\bin\com.companyname.taqueria.apk
+C:\Users\diego\Documents\Interfaces\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\res\drawable-hdpi\icon.png
+C:\Users\diego\Documents\Interfaces\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\res\drawable-xhdpi\icon.png
+C:\Users\diego\Documents\Interfaces\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\res\drawable-xxhdpi\icon.png
+C:\Users\diego\Documents\Interfaces\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\res\layout\tabbar.xml
+C:\Users\diego\Documents\Interfaces\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\res\layout\toolbar.xml
+C:\Users\diego\Documents\Interfaces\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\res\values\styles.xml
+C:\Users\diego\Documents\Interfaces\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\res\drawable\fondo4.jpg
+C:\Users\diego\Documents\Interfaces\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\res\drawable\logo.png
+C:\Users\diego\Documents\Interfaces\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\res\drawable\fondo3.jpg
+C:\Users\diego\Documents\Interfaces\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\res\drawable\fondoorden2.jpg
+C:\Users\diego\Documents\Interfaces\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\res\drawable\promo.jpg
+C:\Users\diego\Documents\Interfaces\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\res\drawable\qrcode.png
+C:\Users\diego\Documents\Interfaces\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\res\drawable\unselected_circle.png
+C:\Users\diego\Documents\Interfaces\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\res\drawable\selected_circle.png
+C:\Users\diego\Documents\Interfaces\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\res\drawable\selectedpage.png
+C:\Users\diego\Documents\Interfaces\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\res\drawable\lengua.jpg
+C:\Users\diego\Documents\Interfaces\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\res\drawable\nopal.jpg
+C:\Users\diego\Documents\Interfaces\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\res\drawable\pastor.jpg
+C:\Users\diego\Documents\Interfaces\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\res\drawable\tripa.jpg
+C:\Users\diego\Documents\Interfaces\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\res\drawable\vegano.jpg
+C:\Users\diego\Documents\Interfaces\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\res\drawable\adobada.jpg
+C:\Users\diego\Documents\Interfaces\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\res\drawable\bistec.jpg
+C:\Users\diego\Documents\Interfaces\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\res\drawable\cabeza.jpg
+C:\Users\diego\Documents\Interfaces\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\res\drawable\camaron.jpg
+C:\Users\diego\Documents\Interfaces\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\res\drawable\chorizo.jpg
+C:\Users\diego\Documents\Interfaces\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\res\drawable\ordenicon.png
+C:\Users\diego\Documents\Interfaces\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\res\drawable\conforder4.png
+C:\Users\diego\Documents\Interfaces\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\res\drawable\tiramisu.jpg
+C:\Users\diego\Documents\Interfaces\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\res\drawable\wafles.jpg
+C:\Users\diego\Documents\Interfaces\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\res\drawable\ahogada.jpg
+C:\Users\diego\Documents\Interfaces\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\res\drawable\barda.jpg
+C:\Users\diego\Documents\Interfaces\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\res\drawable\cerveza.jpg
+C:\Users\diego\Documents\Interfaces\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\res\drawable\coca.jpg
+C:\Users\diego\Documents\Interfaces\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\res\drawable\cubana.jpg
+C:\Users\diego\Documents\Interfaces\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\res\drawable\fresca.jpg
+C:\Users\diego\Documents\Interfaces\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\res\drawable\pastel.jpg
+C:\Users\diego\Documents\Interfaces\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\R.cs.flag
+C:\Users\diego\Documents\Interfaces\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\R.txt
+C:\Users\diego\Documents\Interfaces\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\uploadflags.txt
+C:\Users\diego\Documents\Interfaces\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\FFImageLoading.Forms.Droid.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\FFImageLoading.Forms.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\FFImageLoading.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\FFImageLoading.Platform.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\Mono.Android.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\Mono.Data.Tds.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\Mono.Security.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\mscorlib.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\Rg.Plugins.Popup.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\System.ComponentModel.Composition.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\System.Core.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\System.Data.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\System.IdentityModel.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\System.IO.Compression.FileSystem.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\System.IO.Compression.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\System.Json.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\System.Net.Http.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\System.Numerics.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\System.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\System.Runtime.Serialization.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\System.ServiceModel.Internals.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\System.Transactions.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\System.Web.Services.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\System.Xml.Linq.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\System.Xml.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\FormsViewGroup.dll.mdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\Rg.Plugins.Popup.Droid.dll.mdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\taqueria.Android.dll.mdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\Xamarin.Forms.Core.dll.mdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\android\assets\FormsViewGroup.dll.mdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\android\assets\Rg.Plugins.Popup.Droid.dll.mdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\android\assets\taqueria.Android.dll.mdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\android\assets\FFImageLoading.Forms.Droid.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\android\assets\FFImageLoading.Forms.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\android\assets\FFImageLoading.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\android\assets\FFImageLoading.Platform.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\android\assets\Mono.Android.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\android\assets\Mono.Data.Tds.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\android\assets\Mono.Security.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\android\assets\mscorlib.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\android\assets\Rg.Plugins.Popup.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\android\assets\System.ComponentModel.Composition.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\android\assets\System.Core.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\android\assets\System.Data.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\android\assets\System.IdentityModel.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\android\assets\System.IO.Compression.FileSystem.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\android\assets\System.IO.Compression.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\android\assets\System.Json.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\android\assets\System.Net.Http.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\android\assets\System.Numerics.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\android\assets\System.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\android\assets\System.Runtime.Serialization.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\android\assets\System.ServiceModel.Internals.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\android\assets\System.Transactions.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\android\assets\System.Web.Services.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\android\assets\System.Xml.Linq.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\android\assets\System.Xml.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\android\assets\taqueria.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\linksrc\FormsViewGroup.dll.mdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\linksrc\Rg.Plugins.Popup.Droid.dll.mdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\linksrc\taqueria.Android.dll.mdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\linksrc\Xamarin.Forms.Core.dll.mdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\linksrc\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\linksrc\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\linksrc\FFImageLoading.Forms.Droid.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\linksrc\FFImageLoading.Forms.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\linksrc\FFImageLoading.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\linksrc\FFImageLoading.Platform.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\linksrc\Mono.Android.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\linksrc\Mono.Data.Tds.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\linksrc\Mono.Security.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\linksrc\mscorlib.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\linksrc\Rg.Plugins.Popup.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\linksrc\System.ComponentModel.Composition.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\linksrc\System.Core.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\linksrc\System.Data.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\linksrc\System.IdentityModel.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\linksrc\System.IO.Compression.FileSystem.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\linksrc\System.IO.Compression.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\linksrc\System.Json.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\linksrc\System.Net.Http.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\linksrc\System.Numerics.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\linksrc\System.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\linksrc\System.Runtime.Serialization.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\linksrc\System.ServiceModel.Internals.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\linksrc\System.Transactions.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\linksrc\System.Web.Services.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\linksrc\System.Xml.Linq.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\linksrc\System.Xml.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\linksrc\taqueria.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\res\drawable\oferta2.jpg
+C:\Users\diego\Documents\Interfaces\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\res\drawable\oferta3.jpg
+C:\Users\diego\Documents\Interfaces\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\res\drawable\oferta.jpg
+C:\Users\diego\Documents\Interfaces\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\bin\Debug\taqueria.Android.dll
+C:\Users\diego\Documents\Interfaces\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\linksrc\taqueria.pdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\linksrc\taqueria.Android.dll.mdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\linksrc\FormsViewGroup.dll.mdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\linksrc\Rg.Plugins.Popup.Droid.dll.mdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\linksrc\Xamarin.Forms.Core.dll.mdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\linksrc\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\diego\Documents\Interfaces\Tacos Tito V5\Tacos Tito\Tacos Tito\taqueria\taqueria.Android\obj\Debug\linksrc\Xamarin.Forms.Xaml.dll.mdb

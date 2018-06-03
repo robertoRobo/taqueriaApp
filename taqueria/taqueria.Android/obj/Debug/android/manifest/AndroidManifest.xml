@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionCode="1" android:versionName="1.0" package="com.companyname.taqueria" android:installLocation="auto">
+  <!--suppress UsesMinSdkAttributes-->
+  <uses-sdk android:minSdkVersion="15" />
+  <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+  <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+  <uses-permission android:name="android.permission.ACCESS_MOCK_LOCATION" />
+  <uses-permission android:name="android.permission.ACCESS_LOCATION_EXTRA_COMMANDS" />
+  <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+  <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+  <uses-permission android:name="android.permission.INTERNET" />
+  <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+  <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+  <uses-permission android:name="android.permission.CAMERA" />
+  <application android:label="La App Del Taco" android:largeHeap="true" android:icon="@drawable/logo" android:name="android.app.Application" android:allowBackup="true">
+    <!-- Put your Google Maps V2 API Key here. -->
+    <meta-data android:name="com.google.android.geo.API_KEY" android:value="AIzaSyCM9j8fp7-30AgVSfA56IYFDNtP3k1dm8Y" />
+    <meta-data android:name="com.google.android.gms.version" android:value="@integer/google_play_services_version" />
+    <activity android:configChanges="orientation|screenSize" android:icon="@drawable/logo" android:label="Tacos Tito" android:theme="@style/MainTheme" android:name="md5305f4b48c3d6fe619ee038bf8c260dba.MainActivity">
+      <intent-filter>
+        <action android:name="android.intent.action.MAIN" />
+        <category android:name="android.intent.category.LAUNCHER" />
+      </intent-filter>
+    </activity>
+    <service android:name="md5dcb6eccdc824e0677ffae8ccdde42930.KeepAliveService" />
+    <activity android:label="Web Authenticator" android:name="md5538102cb7512c6dba0c04fe6c395414e.FormAuthenticatorActivity" />
+    <activity android:label="Web Authenticator" android:name="md5538102cb7512c6dba0c04fe6c395414e.WebAuthenticatorActivity" />
+    <activity android:label="@string/title_activity_webview" android:theme="@android:style/Theme.DeviceDefault" android:name="md5538102cb7512c6dba0c04fe6c395414e.WebViewActivity" />
+    <activity android:label="Web Authenticator Native Broswer" android:launchMode="singleTop" android:name="md5538102cb7512c6dba0c04fe6c395414e.WebAuthenticatorNativeBrowserActivity" />
+    <receiver android:name="md5538102cb7512c6dba0c04fe6c395414e.CustomTabsActionsBroadcastReceiver" />
+    <activity android:configChanges="keyboardHidden|orientation|screenLayout" android:label="Scanner" android:name="md5bb098716dd46c8e113564e6b42b7cde9.ZxingActivity" />
+    <provider android:name="mono.MonoRuntimeProvider" android:exported="false" android:initOrder="2147483647" android:authorities="com.companyname.taqueria.mono.MonoRuntimeProvider.__mono_init__" />
+    <meta-data android:name="android.support.VERSION" android:value="25.4.0" />
+    <activity android:name="com.google.android.gms.common.api.GoogleApiActivity" android:theme="@android:style/Theme.Translucent.NoTitleBar" android:exported="false" />
+  </application>
+  <uses-feature android:glEsVersion="0x00020000" android:required="true" />
+</manifest>

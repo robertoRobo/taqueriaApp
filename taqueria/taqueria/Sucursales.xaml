@@ -1,0 +1,210 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="taqueria.Sucursales"
+             xmlns:ffimageloading="clr-namespace:FFImageLoading.Forms;assembly=FFImageLoading.Forms"
+             xmlns:maps="clr-namespace:Xamarin.Forms.Maps;assembly=Xamarin.Forms.Maps"
+             NavigationPage.HasNavigationBar="false">
+    <ContentPage.Content>
+        <StackLayout
+            HorizontalOptions="FillAndExpand">
+            <AbsoluteLayout
+            HorizontalOptions="FillAndExpand">
+                <ffimageloading:CachedImage x:Name="BgImageSucursales1" 
+                   Source="fondo3.jpg"
+                   Aspect="AspectFill"
+                   AbsoluteLayout.LayoutBounds="0.0, 0.0, 1.0, 1.0"
+                   AbsoluteLayout.LayoutFlags="All"/>
+
+                <StackLayout
+                Orientation="Vertical"
+                Margin="0"
+                Padding="0"
+                Spacing="0"
+                AbsoluteLayout.LayoutBounds="0.0, 0.0, 1.0, 1.0"
+                AbsoluteLayout.LayoutFlags="All"
+                BackgroundColor="Transparent"
+                HorizontalOptions="FillAndExpand">
+                    
+                    <StackLayout
+                        Orientation="Horizontal"
+                        BackgroundColor="#135fbd"
+                        HorizontalOptions="FillAndExpand"
+                        HeightRequest="55">
+
+                        <Button
+                            x:Name="BtnBackSucursales"
+                            Text="Regresar"
+                            CornerRadius="5"
+                            BackgroundColor="#009A00"
+                            TextColor="White"
+                            FontSize="18"
+                            Margin="6"
+                            />
+
+                        <Label Text="Sucursales"
+                               TextColor="White"
+                               FontSize="25"
+                               VerticalTextAlignment="Center"
+                               HorizontalTextAlignment="Center"
+                           />
+
+                    </StackLayout>
+                    <ScrollView
+                        BackgroundColor="Transparent"
+                        Margin="0"
+                        Orientation="Vertical"
+                        HorizontalOptions="FillAndExpand">
+                        <StackLayout
+                            BackgroundColor="Transparent"
+                            HorizontalOptions="FillAndExpand">
+                            <!-- BackgroundColor="#1274F4" -->
+
+                            <StackLayout
+                                BackgroundColor="#F35E00"
+                                Margin="10"
+                                Padding="5"
+                                HorizontalOptions="FillAndExpand"
+                                Orientation="Vertical">
+                                <Label 
+                                    Text="Sucursal Centro"
+                                       TextColor="White"
+                                       FontSize="21"
+                                       Margin="0"/>
+
+                                <Label 
+                                    Text="General Miguel Barragán 1002 Colonia Gremial"
+                                    TextColor="White"
+                                    FontSize="16"/>
+
+                                <Label
+                                    Text="Mar-Dom 8pm-3am"
+                                    HorizontalOptions="FillAndExpand"
+                                    TextColor="White"
+                                    FontSize="16"
+                                    />
+
+                                <StackLayout
+                                    Margin="0"
+                                    Padding="5"
+                                    HorizontalOptions="FillAndExpand"
+                                    VerticalOptions="FillAndExpand">
+                                    <!--<Image      
+                                    Source="mapa.jpg"
+                                    Aspect="AspectFill"
+                                    /> -->
+                                    <maps:Map
+                                    x:Name="MapSuc1"
+                                    IsShowingUser="False"
+                                    MapType="Street"
+                                    HeightRequest="300"
+                                    WidthRequest="200"
+                                    VerticalOptions="FillAndExpand"
+                                    HorizontalOptions="FillAndExpand"/>
+                                </StackLayout>
+                                
+                            </StackLayout>
+
+                            <StackLayout
+                                BackgroundColor="#F35E00"
+                                Margin="10"
+                                Padding="5"
+                                HorizontalOptions="FillAndExpand"
+                                Orientation="Vertical">
+                                <Label 
+                                    Text="Sucursal Feria"
+                                       TextColor="White"
+                                       FontSize="21"
+                                       Margin="0"
+                                    HorizontalOptions="FillAndExpand"/>
+
+                                <Label 
+                                    Text="Calle Nieto 913 Colonia Modelo"
+                                    TextColor="White"
+                                    FontSize="16"
+                                    HorizontalOptions="FillAndExpand"/>
+
+                                <Label
+                                    Text="Mar-Dom 8pm-3am"
+                                    HorizontalOptions="FillAndExpand"
+                                    TextColor="White"
+                                    FontSize="16"
+                                    />
+
+                                <StackLayout
+                                    Margin="0"
+                                    Padding="5"
+                                    HorizontalOptions="FillAndExpand"
+                                    VerticalOptions="FillAndExpand">
+                                    <!--<Image      
+                                    Source="mapa.jpg"
+                                    Aspect="AspectFill"
+                                    /> -->
+                                    <maps:Map
+                                        x:Name="MapSuc2"
+                                        IsShowingUser="False"
+                                        MapType="Street"
+                                        HeightRequest="300"
+                                        WidthRequest="200"
+                                        VerticalOptions="FillAndExpand"
+                                        HorizontalOptions="FillAndExpand"/>
+                                </StackLayout>
+
+                            </StackLayout>
+
+                            <StackLayout
+                                BackgroundColor="#F35E00"
+                                Margin="10"
+                                Padding="5"
+                                HorizontalOptions="FillAndExpand"
+                                Orientation="Vertical">
+                                <Label 
+                                    Text="Sucursal Morelos"
+                                       TextColor="White"
+                                       FontSize="21"
+                                       Margin="0"
+                                    HorizontalOptions="FillAndExpand"/>
+
+                                <Label 
+                                    Text="30 de Julio 410 Colonia Morelos 1"
+                                    HorizontalOptions="FillAndExpand"
+                                    TextColor="White"
+                                    FontSize="16"/>
+
+                                <Label
+                                    Text="Mar-Dom 8pm-3am"
+                                    HorizontalOptions="FillAndExpand"
+                                    TextColor="White"
+                                    FontSize="16"
+                                    />
+
+                                <StackLayout
+                                    Margin="0"
+                                    Padding="5"
+                                    HorizontalOptions="FillAndExpand"
+                                    VerticalOptions="FillAndExpand">
+
+                                    <!--<Image      
+                                    Source="mapa.jpg"
+                                    Aspect="AspectFill"
+                                    /> -->
+                                    <maps:Map
+                                        x:Name="MapSuc3"
+                                        IsShowingUser="False"
+                                        MapType="Street"
+                                        HeightRequest="300"
+                                        WidthRequest="200"
+                                        VerticalOptions="FillAndExpand"
+                                        HorizontalOptions="FillAndExpand"/>
+                                </StackLayout>
+
+                            </StackLayout>
+                            
+                        </StackLayout>
+                    </ScrollView>
+                </StackLayout>
+
+            </AbsoluteLayout>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
